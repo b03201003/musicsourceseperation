@@ -34,7 +34,7 @@ for traintest in os.listdir(source_data_path):
 				for i in range(time_length):
 					if np.sum(vocals_spec.T[i])>100.0:
 						vocals_mask[i] = 1.0
-
+				print"vocals_mask:",vocals_mask
 				vocals_mask = np.concatenate((vocals_mask[:frame_wedth*(time_length/frame_wedth)],vocals_mask[-frame_wedth:]),axis=0)
 
 				vocals_mask = np.array(np.split(vocals_mask,(time_length/frame_wedth)+1))	
