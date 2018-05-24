@@ -21,12 +21,12 @@ for traintest in os.listdir(source_data_path):
 			if os.path.isdir(source_data_path+traintest+'/'+song):
 				song+='/'
 				print "Now in :",source_data_path+traintest+'/'+song
-				mixture, sr = librosa.load(source_data_path+traintest+'/'+song+'mixture.wav') #default: sr=22050
-				print "mixture.shape:",mixture.shape
-				mixture_spec = np.abs(librosa.core.spectrum.stft(mixture, n_fft=2048))#default: hop_length=512, win_length=2048
-				print "mixture_spec.shape:",mixture_spec.shape
-				for i in range(mixture_spec.shape[1]):
-					print "spec sum:",np.sum(mixture_spec.T[i])
+				vocals, sr = librosa.load(source_data_path+traintest+'/'+song+'vocals.wav') #default: sr=22050
+				print "vocals.shape:",vocals.shape
+				vocals_spec = np.abs(librosa.core.spectrum.stft(vocals, n_fft=2048))#default: hop_length=512, win_length=2048
+				print "vocals_spec.shape:",vocals_spec.shape
+				for i in range(vocals_spec.shape[1]):
+					print "spec sum:",np.sum(vocals_spec.T[i])
 
 				break
 				# time_length = mixture_spec.shape[1]
