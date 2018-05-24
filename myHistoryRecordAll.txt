@@ -1,0 +1,4469 @@
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622574146
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622664861
+valid_accuracy	0.267622529657
+valid_accuracy	0.267622723666
+valid_accuracy	0.267622854456
+valid_accuracy	0.267622738105
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970937
+valid_accuracy	0.267622970321
+valid_accuracy	0.267622971054
+valid_accuracy	0.267622970599
+valid_accuracy	0.26762297236
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622969654
+valid_accuracy	0.267622970906
+valid_accuracy	0.267622970372
+valid_accuracy	0.267622969831
+valid_accuracy	0.267622970715
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971424
+valid_accuracy	0.267622970937
+valid_accuracy	0.267622969934
+valid_accuracy	0.267622970537
+valid_accuracy	0.267622970415
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970828
+valid_accuracy	0.267622970466
+valid_accuracy	0.267622970627
+valid_accuracy	0.267622970354
+valid_accuracy	0.267622970742
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622969708
+valid_accuracy	0.267622970247
+valid_accuracy	0.267622969738
+valid_accuracy	0.267622971252
+valid_accuracy	0.267622970958
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971002
+valid_accuracy	0.267622970662
+valid_accuracy	0.267622972416
+valid_accuracy	0.267622969533
+valid_accuracy	0.267622971386
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970304
+valid_accuracy	0.267622970607
+valid_accuracy	0.267622969909
+valid_accuracy	0.267622970427
+valid_accuracy	0.267622970259
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971149
+valid_accuracy	0.26762297068
+valid_accuracy	0.267622969833
+valid_accuracy	0.267622971331
+valid_accuracy	0.267622969605
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622969773
+valid_accuracy	0.267622969613
+valid_accuracy	0.267622972042
+valid_accuracy	0.267622971161
+valid_accuracy	0.267622969113
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970099
+valid_accuracy	0.267622970442
+valid_accuracy	0.267622970559
+valid_accuracy	0.267622971339
+valid_accuracy	0.267622970363
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970889
+valid_accuracy	0.267622970129
+valid_accuracy	0.26762296956
+valid_accuracy	0.267622969532
+valid_accuracy	0.267622971088
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970013
+valid_accuracy	0.267622970746
+valid_accuracy	0.267622970603
+valid_accuracy	0.267622971456
+valid_accuracy	0.26762297058
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971367
+valid_accuracy	0.267622969082
+valid_accuracy	0.267622970311
+valid_accuracy	0.267622971207
+valid_accuracy	0.267622970089
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971436
+valid_accuracy	0.267622970086
+valid_accuracy	0.267622970022
+valid_accuracy	0.267622970043
+valid_accuracy	0.267622970815
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970309
+valid_accuracy	0.267622970273
+valid_accuracy	0.267622971506
+valid_accuracy	0.267622970537
+valid_accuracy	0.267622969274
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971439
+valid_accuracy	0.267622969848
+valid_accuracy	0.267622971248
+valid_accuracy	0.267622969383
+valid_accuracy	0.267622970391
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971192
+valid_accuracy	0.267622970876
+valid_accuracy	0.267622970406
+valid_accuracy	0.267622970559
+valid_accuracy	0.267622969224
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622969386
+valid_accuracy	0.267622969563
+valid_accuracy	0.267622971133
+valid_accuracy	0.267622970175
+valid_accuracy	0.267622970053
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970724
+valid_accuracy	0.267622970377
+valid_accuracy	0.267622970569
+valid_accuracy	0.267622969914
+valid_accuracy	0.267622971068
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971869
+valid_accuracy	0.267622970649
+valid_accuracy	0.267622971919
+valid_accuracy	0.267622971404
+valid_accuracy	0.267622971627
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970677
+valid_accuracy	0.267622971209
+valid_accuracy	0.267622971081
+valid_accuracy	0.267622970143
+valid_accuracy	0.267622971049
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970323
+valid_accuracy	0.267622969851
+valid_accuracy	0.267622970014
+valid_accuracy	0.267622970635
+valid_accuracy	0.267622970557
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970289
+valid_accuracy	0.267622969838
+valid_accuracy	0.267622970174
+valid_accuracy	0.267622969303
+valid_accuracy	0.267622971433
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970429
+valid_accuracy	0.267622969606
+valid_accuracy	0.267622969606
+valid_accuracy	0.267622970857
+valid_accuracy	0.267622969838
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970439
+valid_accuracy	0.2676229698
+valid_accuracy	0.267622970501
+valid_accuracy	0.267622970931
+valid_accuracy	0.26762297007
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622969628
+valid_accuracy	0.267622971026
+valid_accuracy	0.267622971693
+valid_accuracy	0.267622971711
+valid_accuracy	0.26762297074
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970311
+valid_accuracy	0.267622971477
+valid_accuracy	0.267622970302
+valid_accuracy	0.267622969953
+valid_accuracy	0.267622970323
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970066
+valid_accuracy	0.267622971902
+valid_accuracy	0.267622970822
+valid_accuracy	0.267622971
+valid_accuracy	0.267622970406
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971746
+valid_accuracy	0.267622971374
+valid_accuracy	0.267622970959
+valid_accuracy	0.267622970562
+valid_accuracy	0.267622970106
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970966
+valid_accuracy	0.267622972089
+valid_accuracy	0.267622970483
+valid_accuracy	0.267622971393
+valid_accuracy	0.267622972829
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970961
+valid_accuracy	0.267622970991
+valid_accuracy	0.267622970629
+valid_accuracy	0.267622971764
+valid_accuracy	0.267622971409
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970439
+valid_accuracy	0.267622970766
+valid_accuracy	0.267622971181
+valid_accuracy	0.267622972364
+valid_accuracy	0.267622970622
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971539
+valid_accuracy	0.267622970571
+valid_accuracy	0.267622971465
+valid_accuracy	0.267622970108
+valid_accuracy	0.267622970866
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971133
+valid_accuracy	0.267622970562
+valid_accuracy	0.267622970156
+valid_accuracy	0.267622971391
+valid_accuracy	0.267622969534
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970219
+valid_accuracy	0.267622971849
+valid_accuracy	0.267622970426
+valid_accuracy	0.267622971551
+valid_accuracy	0.267622970509
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971407
+valid_accuracy	0.267622971534
+valid_accuracy	0.267622971197
+valid_accuracy	0.267622970416
+valid_accuracy	0.267622970849
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622970822
+valid_accuracy	0.267622969699
+valid_accuracy	0.26762296973
+valid_accuracy	0.267622970129
+valid_accuracy	0.267622970992
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971187
+valid_accuracy	0.267622970963
+valid_accuracy	0.267622970994
+valid_accuracy	0.267622970319
+valid_accuracy	0.267622969411
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	0.267622971186
+valid_accuracy	0.267622970741
+valid_accuracy	0.267622970417
+valid_accuracy	0.267622970758
+valid_accuracy	0.267622970671
+epoch : 1	./201804022011_CDAE.hdf5
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+valid_accuracy	1.00000142664
+epoch : 1	./201804271230_CDAE.hdf5
+valid_accuracy	0.267622867289
+valid_accuracy	0.267622565042
+valid_accuracy	0.267622649176
+valid_accuracy	0.267622725617
+valid_accuracy	0.267622833693
+valid_accuracy	0.267622696464
+valid_accuracy	0.26762272903
+valid_accuracy	0.26762245215
+valid_accuracy	0.267622891774
+valid_accuracy	0.267622874427
+epoch : 1	./201804271230_CDAE.hdf5
+valid_accuracy	0.267622779707
+epoch : 1	./201804271230_CDAE.hdf5
+valid_accuracy	0.267622568367
+valid_accuracy	0.267622627087
+valid_accuracy	0.267622859468
+valid_accuracy	0.267622870438
+valid_accuracy	0.267622518234
+valid_accuracy	0.267622666818
+valid_accuracy	0.267622768861
+valid_accuracy	0.267622918154
+valid_accuracy	0.267622900337
+valid_accuracy	0.267622965477
+epoch : 1	./201804271230_CDAE.hdf5
+valid_accuracy	0.267622837371
+valid_accuracy	0.267622339821
+valid_accuracy	0.267622932951
+valid_accuracy	0.267622928772
+valid_accuracy	0.267622749723
+valid_accuracy	0.267622866986
+valid_accuracy	0.267622965517
+valid_accuracy	0.267622794376
+valid_accuracy	0.267622867155
+valid_accuracy	0.26762284076
+epoch : 1	./201804271230_CDAE.hdf5
+valid_accuracy	0.267622776635
+valid_accuracy	0.267622863206
+valid_accuracy	0.267622874607
+valid_accuracy	0.267622874636
+valid_accuracy	0.267622863089
+valid_accuracy	0.267622801939
+valid_accuracy	0.267622466811
+valid_accuracy	0.267622848562
+valid_accuracy	0.267622896145
+valid_accuracy	0.267622947851
+epoch : 1	./201804271230_CDAE.hdf5
+valid_accuracy	0.267622878031
+valid_accuracy	0.267622859595
+valid_accuracy	0.267622844875
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.83756048819
+valid_loss	0.817079053777
+valid_loss	0.815887798017
+valid_loss	0.828222954308
+valid_loss	0.805500239053
+valid_loss	0.82459163163
+valid_loss	0.818863900959
+valid_loss	0.826194223887
+valid_loss	0.802986079874
+valid_loss	0.96925885964
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.803247181293
+valid_loss	0.804971868267
+valid_loss	0.815945917262
+valid_loss	0.807094476232
+valid_loss	0.809762306206
+valid_loss	0.807439918447
+valid_loss	0.811850047086
+valid_loss	0.802488804733
+valid_loss	0.974228729487
+valid_loss	0.808000318817
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.807942202304
+valid_loss	0.799398059914
+valid_loss	0.799631455559
+valid_loss	0.802276518365
+valid_loss	0.806533385984
+valid_loss	0.820447505641
+valid_loss	0.814868667637
+valid_loss	0.907178302169
+valid_loss	0.800684225514
+valid_loss	0.813794345992
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.805315498377
+valid_loss	0.842748992137
+valid_loss	0.802562758802
+valid_loss	0.79587457219
+valid_loss	0.797466415521
+valid_loss	0.810894627185
+valid_loss	0.818462350606
+valid_loss	0.799173216754
+valid_loss	0.796067639707
+valid_loss	0.802707078329
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.804216023904
+valid_loss	0.795924977303
+valid_loss	0.811719265981
+valid_loss	0.795160185541
+valid_loss	0.836220862148
+valid_loss	0.802091296326
+valid_loss	0.799494745686
+valid_loss	0.794453593813
+valid_loss	0.801262466807
+valid_loss	0.820052756569
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.796456546669
+valid_loss	0.894132950092
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.803216570224
+valid_loss	0.811182411863
+valid_loss	0.806803537979
+valid_loss	0.805280945259
+valid_loss	0.805898139226
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.99106443253
+train_loss	1.94514698077
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.92568907128
+train_loss	2.07956035227
+valid_loss	1.63385124059
+train_loss	1.94973091577
+valid_loss	1.35486372459
+train_loss	1.58005796824
+valid_loss	1.25306943656
+train_loss	1.3867154813
+valid_loss	1.04241613868
+train_loss	1.24615042183
+valid_loss	0.956894082526
+train_loss	1.03525847552
+valid_loss	0.934724274622
+train_loss	0.998106906905
+valid_loss	0.912873941917
+train_loss	0.974937566243
+valid_loss	0.937812280038
+train_loss	0.961339407114
+valid_loss	0.900422801474
+train_loss	0.952012344103
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.896653269784
+train_loss	0.944145818985
+valid_loss	0.89055150077
+train_loss	0.936771514755
+valid_loss	0.88325548347
+train_loss	0.932585580831
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.81445245708
+train_loss	0.89236121682
+valid_loss	0.806293298124
+train_loss	0.87206295483
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.92911165131
+train_loss	0.876547092613
+valid_loss	0.814996309447
+train_loss	0.869836081944
+valid_loss	0.803650379472
+train_loss	0.86177465225
+valid_loss	0.805477888899
+train_loss	0.85966032041
+valid_loss	0.819316899847
+train_loss	0.857200040332
+valid_loss	0.826221417554
+train_loss	0.854070871281
+valid_loss	0.856910557094
+train_loss	0.854120750998
+valid_loss	0.808184080396
+train_loss	0.852336140796
+valid_loss	0.805615795712
+train_loss	0.851734208115
+valid_loss	0.800495287206
+train_loss	0.851283818864
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.808802963306
+train_loss	0.850345129586
+valid_loss	0.788539205022
+train_loss	0.835257163625
+valid_loss	0.7880312311
+train_loss	0.8337978771
+valid_loss	0.787387605702
+train_loss	0.833298485854
+valid_loss	0.787724951006
+train_loss	0.832975613209
+valid_loss	0.786901587429
+train_loss	0.83266762646
+valid_loss	0.785803680174
+train_loss	0.831090037523
+valid_loss	0.78577049127
+train_loss	0.83091945619
+valid_loss	0.78564352354
+train_loss	0.830862800025
+valid_loss	0.785727686533
+train_loss	0.830825723429
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.785600934173
+train_loss	0.830788497264
+valid_loss	0.785567068067
+train_loss	0.830579655083
+valid_loss	0.785556287237
+train_loss	0.830560963507
+valid_loss	0.785533235683
+train_loss	0.830555367114
+valid_loss	0.785519308063
+train_loss	0.83054925733
+valid_loss	0.785546578891
+train_loss	0.830545860041
+valid_loss	0.785531693522
+train_loss	0.830519872733
+valid_loss	0.78552432568
+train_loss	0.830517567351
+valid_loss	0.785526017524
+train_loss	0.830516728462
+valid_loss	0.785524449935
+train_loss	0.83051612809
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.78552424535
+train_loss	0.830515737906
+valid_loss	0.785526195733
+train_loss	0.830512462481
+valid_loss	0.785525692197
+train_loss	0.830512332269
+valid_loss	0.785526164888
+train_loss	0.830512290419
+valid_loss	0.785526261353
+train_loss	0.830512247998
+valid_loss	0.785525852785
+train_loss	0.830512202612
+valid_loss	0.785525854048
+train_loss	0.830511860938
+valid_loss	0.785525851802
+train_loss	0.830511859525
+valid_loss	0.785525853961
+train_loss	0.83051185874
+valid_loss	0.785525854788
+train_loss	0.830511858433
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.785525858393
+train_loss	0.830511855914
+valid_loss	0.785525854167
+train_loss	0.830511844565
+valid_loss	0.785525858991
+train_loss	0.830511844621
+valid_loss	0.785525859484
+train_loss	0.830511844464
+valid_loss	0.785525858423
+train_loss	0.830511843615
+valid_loss	0.785525857232
+train_loss	0.830511844739
+valid_loss	0.78552585859
+train_loss	0.830511844433
+valid_loss	0.785525858464
+train_loss	0.830511844174
+valid_loss	0.785525858006
+train_loss	0.830511844337
+valid_loss	0.78552585668
+train_loss	0.830511844523
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.785525861654
+train_loss	0.830511844153
+valid_loss	0.785525859451
+train_loss	0.830511843956
+valid_loss	0.785525862369
+train_loss	0.830511844879
+valid_loss	0.785525859273
+train_loss	0.830511843354
+valid_loss	0.785525858286
+train_loss	0.830511843788
+valid_loss	0.78552586006
+train_loss	0.830511844054
+valid_loss	0.785525858941
+train_loss	0.83051184418
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.809394139732
+train_loss	0.876150755023
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.887408343296
+train_loss	0.880008025567
+valid_loss	0.826401062576
+train_loss	0.867655515841
+valid_loss	0.963607809089
+train_loss	0.861317185768
+valid_loss	0.818854617089
+train_loss	0.858636363111
+valid_loss	0.845900658907
+train_loss	0.857445058858
+valid_loss	0.805040567479
+train_loss	0.854487156725
+valid_loss	0.807930091521
+train_loss	0.853728867876
+valid_loss	0.811489842041
+train_loss	0.851397996828
+valid_loss	0.872539105287
+train_loss	0.851686126308
+valid_loss	0.912933379287
+train_loss	0.85134668512
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.814349701297
+train_loss	0.851891762077
+valid_loss	0.813141132828
+train_loss	0.849849960697
+valid_loss	0.805306649257
+train_loss	0.849730874346
+valid_loss	0.788161251872
+train_loss	0.834607592595
+valid_loss	0.787122746592
+train_loss	0.833266843914
+valid_loss	0.786889535581
+train_loss	0.832756021444
+valid_loss	0.786937481662
+train_loss	0.832407121492
+valid_loss	0.786709967269
+train_loss	0.832151733358
+valid_loss	0.786354733528
+train_loss	0.831935899923
+valid_loss	0.786130156204
+train_loss	0.831725226094
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.786438663742
+train_loss	0.831564813595
+valid_loss	0.785979774967
+train_loss	0.831422059296
+valid_loss	0.786754702097
+train_loss	0.831286504795
+valid_loss	0.786481654513
+train_loss	0.831154348309
+valid_loss	0.786060219228
+train_loss	0.831026303065
+valid_loss	0.785629592617
+train_loss	0.830920711017
+valid_loss	0.78552454543
+train_loss	0.830842046116
+valid_loss	0.78577813183
+train_loss	0.830725620232
+valid_loss	0.785422571094
+train_loss	0.830642840608
+valid_loss	0.785207755677
+train_loss	0.83058214138
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.784885329386
+train_loss	0.830444764637
+valid_loss	0.784029565249
+train_loss	0.828935655681
+valid_loss	0.783964817343
+train_loss	0.828805684175
+valid_loss	0.78390149164
+train_loss	0.828770281031
+valid_loss	0.783891297606
+train_loss	0.828749519106
+valid_loss	0.783932387359
+train_loss	0.828722178958
+valid_loss	0.783795482266
+train_loss	0.828710448317
+valid_loss	0.783907692871
+train_loss	0.828695182689
+valid_loss	0.783822243317
+train_loss	0.828680322918
+valid_loss	0.783955717607
+train_loss	0.828665941707
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.811636206895
+train_loss	0.875118182141
+valid_loss	0.822499893849
+train_loss	0.868775570994
+valid_loss	0.808411020024
+train_loss	0.861264936642
+valid_loss	0.809889109569
+train_loss	0.85842346087
+valid_loss	0.843813944907
+train_loss	0.856638455032
+valid_loss	0.803392779103
+train_loss	0.853308648445
+valid_loss	0.810121244858
+train_loss	0.852420709426
+valid_loss	0.801306269506
+train_loss	0.851856392448
+valid_loss	0.803181200535
+train_loss	0.851006150509
+valid_loss	0.816117569879
+train_loss	0.855205390368
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.804517884235
+train_loss	0.877384240207
+valid_loss	0.804765267915
+train_loss	0.864840499849
+valid_loss	0.806360467562
+train_loss	0.859770798662
+valid_loss	0.804390605209
+train_loss	0.856779470074
+valid_loss	0.80454715883
+train_loss	0.854533778853
+valid_loss	0.8058250831
+train_loss	0.852445846607
+valid_loss	0.817406007946
+train_loss	0.851452415278
+valid_loss	0.823693224008
+train_loss	0.851159628436
+valid_loss	1.03461585149
+train_loss	0.85008746141
+valid_loss	0.809829284544
+train_loss	0.850238704121
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.800099755896
+train_loss	0.849745646629
+valid_loss	0.787396292859
+train_loss	0.834445141121
+valid_loss	0.787280914457
+train_loss	0.832927104721
+valid_loss	0.786815822891
+train_loss	0.832438088594
+valid_loss	0.786562384247
+train_loss	0.832068906808
+valid_loss	0.786981198735
+train_loss	0.831806552972
+valid_loss	0.786606902599
+train_loss	0.831598276484
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.97502843849
+train_loss	0.872605008352
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.824363796179
+train_loss	0.879392824925
+valid_loss	0.826530596923
+train_loss	0.870059826987
+valid_loss	0.806683440249
+train_loss	0.863032529235
+valid_loss	0.827177418027
+train_loss	0.862482551908
+valid_loss	0.819649989403
+train_loss	0.85672396693
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.980496892341
+train_loss	0.87807350937
+valid_loss	0.90913132797
+train_loss	0.870576614118
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.894117607198
+train_loss	0.861227617328
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.805256288076
+train_loss	0.874452664373
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.814673824288
+train_loss	0.877187387702
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.892929835074
+train_loss	0.874759701306
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.817997657539
+train_loss	0.869276768071
+epoch : 1	./201804281213_CDAE.hdf5
+valid_loss	1.02627198827
+train_loss	1.1613175526
+epoch : 1	./201804281213_CDAE.hdf5
+valid_loss	0.91261711396
+train_loss	0.997008992236
+epoch : 1	./201804281213_CDAE.hdf5
+valid_loss	1.99106444185
+train_loss	2.00644718024e+16
+epoch : 1	./201804281213_CDAE.hdf5
+valid_loss	1.99106443393
+train_loss	2.13001548789
+epoch : 1	./201804281213_CDAE.hdf5
+valid_loss	1.99106444327
+train_loss	4.71103180889e+16
+epoch : 1	./201804281213_CDAE.hdf5
+valid_loss	1.9910644397
+train_loss	2.13001548281
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.803207908641
+train_loss	0.867745864354
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.918301902285
+train_loss	0.864722165089
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	1.14663706782
+train_loss	1.26248008112
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	0.8006298052
+train_loss	0.868314830026
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.99771515553
+train_loss	1.07201836846
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.938812644915
+train_loss	1.02091190333
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.92266216987
+train_loss	0.991605305827
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.89532731485
+train_loss	0.969081765975
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.881477861991
+train_loss	0.95256068354
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.924326200379
+train_loss	0.940691379521
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.866318433693
+train_loss	0.930005385836
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.869486528767
+train_loss	0.921237271648
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.895511353354
+train_loss	0.913934892764
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.894411229684
+train_loss	0.906571957853
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.847878007754
+train_loss	0.901638823921
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.841306914412
+train_loss	0.895048668619
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.831159299111
+train_loss	0.877265690871
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.830065016948
+train_loss	0.875520376197
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.828860032337
+train_loss	0.87449649421
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.828448367065
+train_loss	0.873542565749
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.827603533244
+train_loss	0.872541433063
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.826404342955
+train_loss	0.871585401696
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.825091302834
+train_loss	0.870657991813
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.824514156776
+train_loss	0.869758715618
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.823400247305
+train_loss	0.868919027722
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.822602489558
+train_loss	0.868118546087
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.821974535081
+train_loss	0.867364154072
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.821354297105
+train_loss	0.866621217198
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.820478464516
+train_loss	0.865919415034
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.819689512531
+train_loss	0.865245719452
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.819218015415
+train_loss	0.864621854938
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.818344600383
+train_loss	0.86398073656
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.81819509433
+train_loss	0.863340546327
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.817558277443
+train_loss	0.862727993665
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.817568343018
+train_loss	0.86216102474
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.816154662005
+train_loss	0.861603341433
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.815351962608
+train_loss	0.860113062127
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.815256048672
+train_loss	0.85994075853
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.815083644753
+train_loss	0.859859073822
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.815143597026
+train_loss	0.859791710208
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814952283209
+train_loss	0.85972162376
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814960245596
+train_loss	0.859657729649
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.81498041103
+train_loss	0.859590618653
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.81478766165
+train_loss	0.859527326225
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814729293865
+train_loss	0.859460295435
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814653534766
+train_loss	0.859399762766
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814565026369
+train_loss	0.859335000295
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814679904929
+train_loss	0.859271047204
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.81443114365
+train_loss	0.859215709596
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.8144366966
+train_loss	0.859150262011
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814373776003
+train_loss	0.859088924033
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814342489137
+train_loss	0.859021821796
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814160883654
+train_loss	0.858969074056
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814234995448
+train_loss	0.858901408219
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814084610734
+train_loss	0.858845459339
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814041192134
+train_loss	0.858791084315
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813986484547
+train_loss	0.858584535464
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813972120806
+train_loss	0.858563253964
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813972114167
+train_loss	0.858554151041
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813969861203
+train_loss	0.858548456433
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813966729934
+train_loss	0.85854013962
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813962120304
+train_loss	0.858534092638
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813954111219
+train_loss	0.858526929578
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813932142814
+train_loss	0.858519944501
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813965121267
+train_loss	0.858514258081
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813923562985
+train_loss	0.858509015586
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813933284289
+train_loss	0.85850221987
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813908439147
+train_loss	0.858496375574
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813920138632
+train_loss	0.85848843338
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813897485275
+train_loss	0.858484398448
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813896642419
+train_loss	0.85847683611
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813887820901
+train_loss	0.858470795224
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813916778983
+train_loss	0.858464632346
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813883373926
+train_loss	0.858458893985
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813855356955
+train_loss	0.858453306094
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813883703068
+train_loss	0.858446717736
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813869145941
+train_loss	0.858423061095
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813863630397
+train_loss	0.858419612643
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813865965614
+train_loss	0.858418419752
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813860565414
+train_loss	0.858417605707
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813860223585
+train_loss	0.858417129786
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813859905064
+train_loss	0.858416264597
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813861581102
+train_loss	0.85841549429
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813858325246
+train_loss	0.858415020048
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813859525772
+train_loss	0.858414543191
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813856761932
+train_loss	0.858413886607
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813862494807
+train_loss	0.858413111984
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813859481285
+train_loss	0.858412495896
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813851539125
+train_loss	0.858411716882
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813854534986
+train_loss	0.858411458085
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.81385225513
+train_loss	0.858410710703
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.81385249676
+train_loss	0.858409996337
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.81385118583
+train_loss	0.858409382324
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813850161868
+train_loss	0.858408811758
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813855846485
+train_loss	0.858408149137
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813850764068
+train_loss	0.858407604252
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813850552705
+train_loss	0.858404376013
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813850346515
+train_loss	0.858404313285
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.81385018071
+train_loss	0.858404232072
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813850316571
+train_loss	0.858404182517
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813850589516
+train_loss	0.858404118522
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813850436961
+train_loss	0.858404064101
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813850809523
+train_loss	0.858403994879
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813850469109
+train_loss	0.858403940735
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.813850431725
+train_loss	0.858403886692
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.927449678194
+train_loss	0.995349252616
+valid_loss	0.948159994857
+train_loss	0.972389437451
+valid_loss	0.894231026907
+train_loss	0.955988696416
+valid_loss	0.894455679828
+train_loss	0.942631545175
+valid_loss	0.872665309484
+train_loss	0.932041861839
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.871224937062
+train_loss	0.924309450508
+valid_loss	0.860810380956
+train_loss	0.917293073856
+valid_loss	0.847811999906
+train_loss	0.909303158242
+valid_loss	0.856986455796
+train_loss	0.903084877517
+valid_loss	0.838211928004
+train_loss	0.89763790457
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.834389528135
+train_loss	0.891997680814
+valid_loss	0.837203022939
+train_loss	0.887541155834
+valid_loss	0.824049523279
+train_loss	0.870656701984
+valid_loss	0.823229527383
+train_loss	0.869019623964
+valid_loss	0.822453702565
+train_loss	0.868130130861
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.821506665611
+train_loss	0.86731938517
+valid_loss	0.82111910551
+train_loss	0.866521104065
+valid_loss	0.820278955715
+train_loss	0.865726947176
+valid_loss	0.819351904853
+train_loss	0.864938699974
+valid_loss	0.819397767439
+train_loss	0.864134315755
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.817563505845
+train_loss	0.863448519721
+valid_loss	0.816986089998
+train_loss	0.862700494214
+valid_loss	0.815831699951
+train_loss	0.861996954202
+valid_loss	0.815313374183
+train_loss	0.861362673985
+valid_loss	0.815408654583
+train_loss	0.860709061564
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.814243622365
+train_loss	0.860079105947
+valid_loss	0.813400758668
+train_loss	0.859484895328
+valid_loss	0.813524019962
+train_loss	0.858938033532
+valid_loss	0.812230683036
+train_loss	0.858346561292
+valid_loss	0.812238932439
+train_loss	0.857837593492
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.811035757989
+train_loss	0.857298001039
+valid_loss	0.810489816915
+train_loss	0.855867304089
+valid_loss	0.810445387293
+train_loss	0.85571353172
+valid_loss	0.810368712999
+train_loss	0.855626194397
+valid_loss	0.810347651356
+train_loss	0.855570483985
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.810283845711
+train_loss	0.855506121438
+valid_loss	0.810231880014
+train_loss	0.855439804818
+valid_loss	0.810123075416
+train_loss	0.855379189944
+valid_loss	0.810107914527
+train_loss	0.855320008827
+valid_loss	0.80997531273
+train_loss	0.855257588826
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809940984828
+train_loss	0.855201927646
+valid_loss	0.809849405912
+train_loss	0.855142369006
+valid_loss	0.809778498876
+train_loss	0.855086360456
+valid_loss	0.809748003736
+train_loss	0.855021592782
+valid_loss	0.809695896338
+train_loss	0.854968507217
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809617529139
+train_loss	0.854912155358
+valid_loss	0.80963528325
+train_loss	0.854854389632
+valid_loss	0.809513605351
+train_loss	0.85479899494
+valid_loss	0.809453082968
+train_loss	0.854744859216
+valid_loss	0.80951962493
+train_loss	0.854687387854
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809377802857
+train_loss	0.854635834952
+valid_loss	0.809319571015
+train_loss	0.854445827233
+valid_loss	0.809310397924
+train_loss	0.854422329859
+valid_loss	0.809292724358
+train_loss	0.854413115276
+valid_loss	0.809285003057
+train_loss	0.854406880065
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809290779263
+train_loss	0.85440041697
+valid_loss	0.809295469792
+train_loss	0.854393143894
+valid_loss	0.809275759093
+train_loss	0.854388382973
+valid_loss	0.809289900304
+train_loss	0.85438251415
+valid_loss	0.809252287712
+train_loss	0.85437613579
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.80925366389
+train_loss	0.854370243024
+valid_loss	0.809272876702
+train_loss	0.854363558314
+valid_loss	0.809256927171
+train_loss	0.854357922768
+valid_loss	0.809222156144
+train_loss	0.85435240385
+valid_loss	0.809242395934
+train_loss	0.854345906973
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809253088525
+train_loss	0.854341826614
+valid_loss	0.809209199459
+train_loss	0.854336542149
+valid_loss	0.809219619305
+train_loss	0.854331659274
+valid_loss	0.809214498647
+train_loss	0.854324760883
+valid_loss	0.80921670761
+train_loss	0.854318035787
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809204355405
+train_loss	0.854313981664
+valid_loss	0.809193289681
+train_loss	0.854289286366
+valid_loss	0.809194317166
+train_loss	0.854286994843
+valid_loss	0.809194193854
+train_loss	0.854285775606
+valid_loss	0.809196672673
+train_loss	0.85428518222
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809193371259
+train_loss	0.854284637966
+valid_loss	0.809195356322
+train_loss	0.854283972525
+valid_loss	0.809190886833
+train_loss	0.854283132213
+valid_loss	0.809192234063
+train_loss	0.85428281889
+valid_loss	0.809196678529
+train_loss	0.854282024967
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809192518398
+train_loss	0.854281538048
+valid_loss	0.809191365358
+train_loss	0.854280854127
+valid_loss	0.809194860109
+train_loss	0.854280285373
+valid_loss	0.809191200977
+train_loss	0.854279913855
+valid_loss	0.809192834814
+train_loss	0.854279208972
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809190435244
+train_loss	0.854278710003
+valid_loss	0.809186755335
+train_loss	0.854277988781
+valid_loss	0.8091893481
+train_loss	0.854277465436
+valid_loss	0.809184988163
+train_loss	0.854276816919
+valid_loss	0.809185746448
+train_loss	0.854276414437
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809190277134
+train_loss	0.854275702675
+valid_loss	0.809188774972
+train_loss	0.85427276456
+valid_loss	0.809187506732
+train_loss	0.854272624261
+valid_loss	0.80918731266
+train_loss	0.854272552531
+valid_loss	0.809187082358
+train_loss	0.854272493724
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809186954395
+train_loss	0.854272441688
+valid_loss	0.80918680301
+train_loss	0.854272399972
+valid_loss	0.809186653779
+train_loss	0.854272351322
+valid_loss	0.809186520425
+train_loss	0.85427230112
+valid_loss	0.809186465935
+train_loss	0.854272251346
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.80918645542
+train_loss	0.854272185162
+valid_loss	0.809186401922
+train_loss	0.854272144101
+valid_loss	0.809186144826
+train_loss	0.854272094883
+valid_loss	0.809186378896
+train_loss	0.854272040954
+valid_loss	0.809186164721
+train_loss	0.854271988232
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809186161816
+train_loss	0.854271938178
+valid_loss	0.809186006661
+train_loss	0.854271895902
+valid_loss	0.809185986672
+train_loss	0.854271845517
+valid_loss	0.809186046685
+train_loss	0.854271793461
+valid_loss	0.809185848188
+train_loss	0.8542717432
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.80918601222
+train_loss	0.854271692009
+valid_loss	0.809186019366
+train_loss	0.854271370776
+valid_loss	0.809186010472
+train_loss	0.854271368971
+valid_loss	0.809186013014
+train_loss	0.854271367864
+valid_loss	0.809186027453
+train_loss	0.854271369047
+epoch : 1	./201804280030_CDAE.hdf5
+valid_loss	0.809186020527
+train_loss	0.854271365665
+valid_loss	0.809186023891
+train_loss	0.854271366662
+valid_loss	0.809186021007
+train_loss	0.854271362259
+valid_loss	0.809186012007
+train_loss	0.854271364337
+valid_loss	0.809186021703
+train_loss	0.854271361206
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.17695166752
+train_loss	1.33242245519
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.15413793288
+train_loss	1.26052181632
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.15046144523
+train_loss	1.23192761944
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.15558377093
+train_loss	1.2575032198
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.20770233129
+train_loss	1.23717870834
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.13091814062
+train_loss	1.22109019502
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.12602617473
+train_loss	1.20797347052
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.14062500344
+train_loss	1.19973118592
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.14228866228
+train_loss	1.18986182977
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.12094880959
+train_loss	1.1827115513
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.12018536177
+train_loss	1.17643625164
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.12793066375
+train_loss	1.17056535398
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.11231779921
+train_loss	1.16709222912
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.12175564123
+train_loss	1.16245928635
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.09015383179
+train_loss	1.12809254323
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.09370340514
+train_loss	1.12341876465
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.09259630792
+train_loss	1.1214496738
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.0958979341
+train_loss	1.120029711
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.0895124011
+train_loss	1.11878702533
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.09169608383
+train_loss	1.11762001198
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.09009094564
+train_loss	1.11674520964
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.09254381346
+train_loss	1.11585674133
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08947719215
+train_loss	1.11512445576
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08688843665
+train_loss	1.1143816712
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08822985411
+train_loss	1.11358160664
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08955026734
+train_loss	1.11283866898
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08841230949
+train_loss	1.11198260984
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08798967651
+train_loss	1.11153536752
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08932384004
+train_loss	1.11084376675
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.09401429247
+train_loss	1.11023980302
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.09061619926
+train_loss	1.10982556408
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.09157794447
+train_loss	1.10915810849
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08721321747
+train_loss	1.10853950586
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.09250255938
+train_loss	1.10810923497
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08934449465
+train_loss	1.10765306977
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08863498821
+train_loss	1.10331942457
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08952420049
+train_loss	1.10278696278
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08890314338
+train_loss	1.10264855127
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08836700351
+train_loss	1.10253756861
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08822867649
+train_loss	1.10244016338
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08847859339
+train_loss	1.10232622641
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08849544924
+train_loss	1.1022958461
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08898590343
+train_loss	1.10221091967
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08943976426
+train_loss	1.10217441561
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08853380314
+train_loss	1.10208317831
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08834599005
+train_loss	1.10202641099
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08806287516
+train_loss	1.10196443579
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08774150905
+train_loss	1.10190343447
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08981521497
+train_loss	1.10181004508
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.0895320046
+train_loss	1.1018010719
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08867754049
+train_loss	1.1016923477
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.0903894305
+train_loss	1.10160850242
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08860954859
+train_loss	1.10158289313
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08845853403
+train_loss	1.10150326199
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08881144444
+train_loss	1.10143336054
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08899293319
+train_loss	1.10136435785
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08916550002
+train_loss	1.10078808684
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08869248079
+train_loss	1.10074856515
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08870883203
+train_loss	1.10072753929
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08890645588
+train_loss	1.10072613235
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08888527914
+train_loss	1.10071056707
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08898670148
+train_loss	1.10070527007
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08858809489
+train_loss	1.10068827616
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08904769819
+train_loss	1.10068283646
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08857920721
+train_loss	1.10068227922
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08853122138
+train_loss	1.10067828455
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08875180823
+train_loss	1.10066916067
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08871225118
+train_loss	1.10066307301
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08866359083
+train_loss	1.10065287194
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.0889083946
+train_loss	1.10065482867
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08856739094
+train_loss	1.10064578991
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08872922578
+train_loss	1.10063428332
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08862051686
+train_loss	1.1006234603
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08825383576
+train_loss	1.10062683415
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08864269848
+train_loss	1.10061911163
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08856691651
+train_loss	1.10060900539
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08860907084
+train_loss	1.10060437862
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08870728487
+train_loss	1.10052824405
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08874148356
+train_loss	1.10052442755
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08869634933
+train_loss	1.10052277218
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.0887039745
+train_loss	1.100522218
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08873214273
+train_loss	1.10052056459
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08870076244
+train_loss	1.10051985391
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08872862997
+train_loss	1.10051925004
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08872227873
+train_loss	1.10051819468
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08872669001
+train_loss	1.10051792134
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08866990496
+train_loss	1.10051621458
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08869280499
+train_loss	1.10051659477
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08870133249
+train_loss	1.1005158471
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08871922344
+train_loss	1.10051535711
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08871426246
+train_loss	1.10051442291
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08873029434
+train_loss	1.10051405849
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08872317278
+train_loss	1.10051282908
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08872829091
+train_loss	1.10051237317
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08871968538
+train_loss	1.10051163605
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.0887189445
+train_loss	1.10051126897
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08871468087
+train_loss	1.10051091083
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.0887044301
+train_loss	1.10050973842
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.0887056092
+train_loss	1.10050024499
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08870585414
+train_loss	1.10050023642
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08870522188
+train_loss	1.10050020756
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08870626612
+train_loss	1.1005000912
+epoch : 1	./201804271230_CDAE.hdf5
+valid_loss	1.08870740668
+train_loss	1.10050008748
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.76939901295
+train_loss	1.91045756826
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.61800941387
+train_loss	1.73244007652
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.60110725088
+train_loss	1.6784538942
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.59798924992
+train_loss	1.66406158812
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.59342124407
+train_loss	1.65564027534
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.60128601267
+train_loss	1.64826207454
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.59020418031
+train_loss	1.64253621695
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.58526035292
+train_loss	1.63777117066
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.58265383692
+train_loss	1.63377720212
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.58059394334
+train_loss	1.63016066523
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.59102171481
+train_loss	1.62622174881
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.58233585111
+train_loss	1.62310391258
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57734973806
+train_loss	1.61343079715
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57560202297
+train_loss	1.61207439525
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.5746792935
+train_loss	1.61145586687
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57643043097
+train_loss	1.61094620059
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57457168966
+train_loss	1.61045712225
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57465694891
+train_loss	1.60993872258
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57591685254
+train_loss	1.60950970907
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57582377978
+train_loss	1.60917929265
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57515474109
+train_loss	1.60875806355
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57500877244
+train_loss	1.60837059713
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57498329803
+train_loss	1.60801244098
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57495317773
+train_loss	1.60761737344
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57435816226
+train_loss	1.60727073363
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57461231679
+train_loss	1.60695996658
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57547400325
+train_loss	1.60665984676
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57587236902
+train_loss	1.60641675321
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57592011726
+train_loss	1.60604199266
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57435736459
+train_loss	1.60578081818
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57586752102
+train_loss	1.60551351955
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57757888904
+train_loss	1.60527077654
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57524457094
+train_loss	1.60494767205
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57478979824
+train_loss	1.60352180781
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.5752247281
+train_loss	1.603315025
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57536224023
+train_loss	1.60327448069
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57558335307
+train_loss	1.60323057418
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57459241107
+train_loss	1.6031695545
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.75515205341
+train_loss	1.73902002522
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.62175106351
+train_loss	1.68384377314
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.66300822808
+train_loss	1.6578180189
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.60354612459
+train_loss	1.64088398622
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.59521993486
+train_loss	1.62908724156
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.59162274888
+train_loss	1.62181110703
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.57604969451
+train_loss	1.61502431176
+epoch : 1	./201804291050_CDAE.hdf5
+valid_loss	1.58042293841
+train_loss	1.61028813161
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.47007634504
+train_loss	1.59643167835
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.29579815135
+train_loss	1.42765598194
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.34262128823
+train_loss	1.36257501232
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.25027963679
+train_loss	1.32519562895
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.24620064187
+train_loss	1.29922136719
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.25370944729
+train_loss	1.27665621681
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.23328427217
+train_loss	1.26147803375
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.19048475307
+train_loss	1.24633685266
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.17639487658
+train_loss	1.23461032074
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.19646674948
+train_loss	1.22507281049
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.20817960898
+train_loss	1.21495579815
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.16727017016
+train_loss	1.20769594724
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.36583114192
+train_loss	1.20067762601
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.14052547513
+train_loss	1.16902710033
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13974867648
+train_loss	1.16227844895
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.14094241929
+train_loss	1.16016829132
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13754836673
+train_loss	1.15850931135
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13958460556
+train_loss	1.15691235098
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13822815638
+train_loss	1.15512958515
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.14072813087
+train_loss	1.15394682651
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.14273660378
+train_loss	1.15250050144
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13935686817
+train_loss	1.15133259406
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13354386347
+train_loss	1.150416553
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13630651576
+train_loss	1.14928582764
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13311947718
+train_loss	1.1481529882
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13670930356
+train_loss	1.14723879164
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13263228618
+train_loss	1.14636996273
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.1342489378
+train_loss	1.14534195638
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13709618536
+train_loss	1.14451909359
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13334819906
+train_loss	1.14367559814
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13317034777
+train_loss	1.14280208377
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13201688321
+train_loss	1.14224207312
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13536677937
+train_loss	1.14112433184
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.14022371427
+train_loss	1.14056573782
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13215927131
+train_loss	1.13597076028
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13241458442
+train_loss	1.13534124217
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13251721028
+train_loss	1.13516797647
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13208147194
+train_loss	1.13501643575
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13258749391
+train_loss	1.13487127516
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13116977681
+train_loss	1.13478676712
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13247849551
+train_loss	1.13462316506
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13185947819
+train_loss	1.13454162706
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13196904347
+train_loss	1.13443840988
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13238739114
+train_loss	1.13436696633
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.12981624588
+train_loss	1.13424769235
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13158363569
+train_loss	1.13422026079
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13316165761
+train_loss	1.13403372834
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13118896428
+train_loss	1.13397221185
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13183616879
+train_loss	1.13389656709
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13051984383
+train_loss	1.13377541213
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.13121068842
+train_loss	1.13368463216
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.37420152064
+train_loss	1.42958075294
+valid_loss	1.26746620176
+train_loss	1.36440428071
+valid_loss	1.3104393366
+train_loss	1.32588222685
+valid_loss	1.21973816701
+train_loss	1.29996621064
+valid_loss	1.20483118372
+train_loss	1.2794396874
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.22233407939
+train_loss	1.26204811766
+valid_loss	1.20605796059
+train_loss	1.24833281618
+valid_loss	1.1872826782
+train_loss	1.23733562888
+valid_loss	1.17520777631
+train_loss	1.22695527927
+valid_loss	1.18141958833
+train_loss	1.21847987122
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.16129950404
+train_loss	1.2123860312
+valid_loss	1.17443158184
+train_loss	1.20470829108
+valid_loss	1.15887179225
+train_loss	1.20014400356
+valid_loss	1.17903524877
+train_loss	1.19322962
+valid_loss	1.1489191269
+train_loss	1.18891450608
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.16155475061
+train_loss	1.18380784695
+valid_loss	1.15685355783
+train_loss	1.18014121476
+valid_loss	1.13143984554
+train_loss	1.15029618543
+valid_loss	1.12740336874
+train_loss	1.14585802418
+valid_loss	1.13253687884
+train_loss	1.14410414604
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.1321889451
+train_loss	1.14285137358
+valid_loss	1.13496709099
+train_loss	1.14139266334
+valid_loss	1.13017118712
+train_loss	1.14045892604
+valid_loss	1.12776384669
+train_loss	1.13937956517
+valid_loss	1.12620225224
+train_loss	1.1383293527
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.12839561608
+train_loss	1.13743648522
+valid_loss	1.12951666425
+train_loss	1.13683483716
+valid_loss	1.12658077993
+train_loss	1.13565761909
+valid_loss	1.12583470696
+train_loss	1.13513548976
+valid_loss	1.12806205341
+train_loss	1.13423044346
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.12832366684
+train_loss	1.13353609654
+valid_loss	1.12396247564
+train_loss	1.13288776308
+valid_loss	1.12918965836
+train_loss	1.13204324275
+valid_loss	1.12727199292
+train_loss	1.13150472037
+valid_loss	1.12387949106
+train_loss	1.13085161183
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.12799501621
+train_loss	1.13041089773
+valid_loss	1.12464192544
+train_loss	1.12966447101
+valid_loss	1.12924129162
+train_loss	1.12908434506
+valid_loss	1.12519876494
+train_loss	1.12497512743
+valid_loss	1.1245053668
+train_loss	1.12447271996
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.12416111633
+train_loss	1.12431052056
+valid_loss	1.12419574214
+train_loss	1.12420433865
+valid_loss	1.12481147301
+train_loss	1.12407764599
+valid_loss	1.12453585112
+train_loss	1.12403127949
+valid_loss	1.12483750221
+train_loss	1.1239515191
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.12432888877
+train_loss	1.12383229339
+valid_loss	1.12459248591
+train_loss	1.12377877063
+valid_loss	1.12464541345
+train_loss	1.12366351533
+valid_loss	1.1245404307
+train_loss	1.12361919007
+valid_loss	1.12554235226
+train_loss	1.12352801459
+epoch : 1	./201804291430_CDAE.hdf5
+valid_loss	1.12496327467
+train_loss	1.12345263323
+valid_loss	1.12533633688
+train_loss	1.12336876932
+valid_loss	1.12534045656
+train_loss	1.12328395784
+valid_loss	1.12399138836
+train_loss	1.1232048998
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	2175934.10125
+train_loss	2535887.65468
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	2043955.20816
+train_loss	2253769.68281
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	2004796.24078
+train_loss	2141473.08806
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1901360.82351
+train_loss	2068306.04893
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1907463.20453
+train_loss	2018992.03616
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1853301.59048
+train_loss	1980383.08325
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1834176.43471
+train_loss	1951904.11937
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1829365.06226
+train_loss	1926569.72058
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1807138.21962
+train_loss	1906219.16566
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1783279.15712
+train_loss	1889322.6785
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1820565.45042
+train_loss	1873782.62257
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1770778.51606
+train_loss	1820251.39547
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1759655.1619
+train_loss	1812303.60297
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1756826.08
+train_loss	1808293.90344
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1759057.70292
+train_loss	1805701.31653
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1754669.21962
+train_loss	1802729.24167
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1757666.9833
+train_loss	1799826.30374
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1760214.70062
+train_loss	1797692.78485
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1752209.13912
+train_loss	1795676.59005
+epoch : 1	./201804291820_CDAE.hdf5
+valid_loss	1747296.86722
+train_loss	1793233.65247
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	2074251.88077
+train_loss	2413885.20168
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1964944.20688
+train_loss	2177668.19309
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1916767.42458
+train_loss	2078747.4759
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1880227.56237
+train_loss	2029183.05028
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1882722.03977
+train_loss	1993572.1046
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1859281.47882
+train_loss	1964327.67238
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1834378.32862
+train_loss	1939626.81298
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1823182.74079
+train_loss	1920897.38277
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1821298.52352
+train_loss	1904713.17274
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1806887.43431
+train_loss	1889954.31531
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1811153.8067
+train_loss	1878930.01692
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1772428.42834
+train_loss	1823687.46543
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1771272.2017
+train_loss	1815985.09064
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1766125.98075
+train_loss	1812040.31097
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1763858.47214
+train_loss	1809098.38482
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1763621.31848
+train_loss	1805926.10471
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1759246.21317
+train_loss	1803321.35894
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1763787.57801
+train_loss	1800663.36952
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1760555.98915
+train_loss	1798620.71187
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1764837.54742
+train_loss	1796820.18753
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1756205.15799
+train_loss	1794095.39554
+epoch : 1	./201804291920_CDAE.hdf5
+valid_loss	1755464.22421
+train_loss	1792449.05959
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1.519198382400196
+train_loss	1.7227604625428594
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1.5435524632699076
+train_loss	1.7138378305769548
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1.4878677868492263
+train_loss	1.7064629539665652
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1.312278429388325
+train_loss	1.4396581091895335
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1.1965382985608506
+train_loss	1.2658580068226268
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1.1311723338371389
+train_loss	1.1508963605070985
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1.0868596787056939
+train_loss	1.0795890146457567
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1.0556198777853292
+train_loss	1.0276931763240478
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1.0285889570780486
+train_loss	0.9890550149650108
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1.0253375936845668
+train_loss	0.9559438399425367
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.991612803347911
+train_loss	0.9297157671393418
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9977077425256753
+train_loss	0.9078491643616339
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9641153877914956
+train_loss	0.8895584574741561
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9618096683276398
+train_loss	0.8741103107245957
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9489695217798522
+train_loss	0.85989472774289
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9474015099416995
+train_loss	0.8498522960921613
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9430311046020138
+train_loss	0.8400598833019414
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9370156550568036
+train_loss	0.8311337045870903
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9489562085193969
+train_loss	0.8265231586084133
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9225159854101007
+train_loss	0.818286094451096
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9358340590731816
+train_loss	0.8113960056315835
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9251771420246943
+train_loss	0.8065032438352341
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9295341340926988
+train_loss	0.8012642491972302
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9102037709269782
+train_loss	0.7958588163118537
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9219804707086603
+train_loss	0.7898013663546342
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9252149284159336
+train_loss	0.7859183238228646
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.913768167317102
+train_loss	0.7826333329444979
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9063411624951738
+train_loss	0.7761032028896052
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9002199636116949
+train_loss	0.7721968335440246
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9084683868869239
+train_loss	0.7675940603835554
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.8978399688030039
+train_loss	0.7647605638315038
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.8905201951964637
+train_loss	0.7639580786046458
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.910455843300645
+train_loss	0.7620012222266779
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.9064693747780265
+train_loss	0.7590590588657594
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	0.8958246765721699
+train_loss	0.755242040926
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1995661.9872162207
+train_loss	2209317.8727134145
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1807235.212731522
+train_loss	1938795.5830792682
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1715031.23420321
+train_loss	1755807.6775914633
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1678699.6922847447
+train_loss	1644286.38671875
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1602790.4182046612
+train_loss	1564723.1175685977
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1613478.2477821608
+train_loss	1502132.8027820121
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1558820.9332165665
+train_loss	1455969.802496189
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1524361.0612127753
+train_loss	1418443.3810022867
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1509884.0257935256
+train_loss	1385397.7119855182
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1488614.2554653897
+train_loss	1359177.5533536586
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1487843.474486276
+train_loss	1336899.040777439
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1486073.2055516618
+train_loss	1317857.2217987804
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1447604.8478390125
+train_loss	1301270.649199695
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1437214.5482404043
+train_loss	1286771.1633955792
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1442879.680448725
+train_loss	1275141.800304878
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1434991.757792612
+train_loss	1259755.2653391769
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1835778.43325017
+train_loss	1939007.1383384147
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1737896.2337841934
+train_loss	1751811.537823933
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1645658.476954428
+train_loss	1640251.7467606708
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1649104.7053901586
+train_loss	1566239.9371189023
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1599574.7745107587
+train_loss	1503140.910918445
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1545298.411568288
+train_loss	1455838.6350990853
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1509665.761417689
+train_loss	1417449.8197408537
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1500923.7226871105
+train_loss	1383951.7413300304
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1477283.1472401137
+train_loss	1356014.736089939
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1476964.6184719815
+train_loss	1329866.270960366
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1462468.1584685252
+train_loss	1310249.4849466463
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1438023.0970952753
+train_loss	1292729.537633384
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1460013.215018626
+train_loss	1277301.1854992379
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1416195.4770247212
+train_loss	1264143.937023628
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1420687.740263864
+train_loss	1251975.2024580792
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1397884.1356605787
+train_loss	1240717.908917683
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1403161.2483733103
+train_loss	1231271.7706745428
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1414305.7405025181
+train_loss	1221845.99609375
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1379182.5170390955
+train_loss	1214398.5411585367
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1382441.229468185
+train_loss	1207760.2644817072
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1391225.0541416125
+train_loss	1199947.247046494
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1385700.750890839
+train_loss	1197104.665777439
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1375578.283556306
+train_loss	1191825.4962842988
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1385481.0376614346
+train_loss	1184724.7059832318
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1398296.0930950723
+train_loss	1179870.5344893292
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1384054.6711295482
+train_loss	1177282.8136432928
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1416895.6307661077
+train_loss	1175958.0625
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1378310.4314019708
+train_loss	1169595.8391768292
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1387785.996035458
+train_loss	1166730.0878429879
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1372456.5938460103
+train_loss	1161810.5050495428
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1369432.4356092818
+train_loss	1161962.430449695
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1355002.5195518236
+train_loss	1158536.1270007621
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1393218.9076215765
+train_loss	1150087.260003811
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1373207.5830626755
+train_loss	1145348.647675305
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1363195.1565421459
+train_loss	1145013.7505716463
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1380465.2192670843
+train_loss	1141328.512195122
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1360707.7631966237
+train_loss	1137865.492663872
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1351408.3693107006
+train_loss	1135871.718273628
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1353304.1390298565
+train_loss	1136927.173113567
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1356918.757272099
+train_loss	1145609.2100800304
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1350233.3412400149
+train_loss	1127398.9378810977
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1362509.7963606587
+train_loss	1120803.6448170731
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1381051.1289868301
+train_loss	1117202.2589557928
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1344324.8261444434
+train_loss	1114511.030487805
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1357249.9823094057
+train_loss	1112486.6182355182
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1364815.5042004532
+train_loss	1113166.1503429879
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1356913.0782172384
+train_loss	1114367.258765244
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1456940.6432179655
+train_loss	1126043.9219702743
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1375991.6012895564
+train_loss	1152519.1639672257
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1356403.7475359628
+train_loss	1118312.6307164633
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1343898.3539737316
+train_loss	1109753.7027439023
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1342808.0494494492
+train_loss	1105092.62890625
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1351642.5007667113
+train_loss	1101641.2782012196
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1322300.283177751
+train_loss	1101152.236089939
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1336065.2647321036
+train_loss	1099667.3887195121
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1334226.1598558747
+train_loss	1100072.3330792682
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1307979.7096201007
+train_loss	1100106.970464939
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1337950.1844489279
+train_loss	1097358.6427210367
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1338078.1034203004
+train_loss	1101216.69921875
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1332842.1268516283
+train_loss	1098249.0019054879
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1337762.6513349554
+train_loss	1097268.315167683
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1335595.7295028172
+train_loss	1093162.0525914633
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1368952.1357394443
+train_loss	1096439.5230564023
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1319936.4219099751
+train_loss	1094360.475609756
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1335930.3908883426
+train_loss	1090067.471894055
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1330924.6540235884
+train_loss	1088706.8533727133
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1344792.527303344
+train_loss	1110461.693302892
+valid_loss	1337123.4847637154
+train_loss	1111306.8404680365
+valid_loss	1332395.1321237234
+train_loss	1104783.327435312
+valid_loss	1309842.8029198672
+train_loss	1104935.3789003044
+valid_loss	1335824.342875731
+train_loss	1100455.6909246575
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1338470.7829412534
+train_loss	1095922.1679033486
+valid_loss	1337150.572693894
+train_loss	1094960.7729261797
+valid_loss	1353782.5861393593
+train_loss	1092817.4088660579
+valid_loss	1329114.158951914
+train_loss	1090528.8168759514
+valid_loss	1320518.4672626518
+train_loss	1087242.2653158295
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1355036.3783293143
+train_loss	1083151.1837899543
+valid_loss	1331721.7717960293
+train_loss	1083992.459284627
+valid_loss	1333602.6181326925
+train_loss	1080738.1651445967
+valid_loss	1332686.1938381088
+train_loss	1078896.4210426179
+valid_loss	1313557.8527606986
+train_loss	1077568.5025684931
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1325635.7324641563
+train_loss	1077688.9446347032
+valid_loss	1340201.7698599533
+train_loss	1078006.0282534247
+valid_loss	1351993.7720299407
+train_loss	1074170.1040715373
+valid_loss	1322057.038126855
+train_loss	1075201.43293379
+valid_loss	1353793.2018374652
+train_loss	1074373.0971270928
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1334431.4848250917
+train_loss	1095889.942351598
+valid_loss	1350459.892104165
+train_loss	1075630.7192732117
+valid_loss	1313460.819818081
+train_loss	1071140.087519026
+valid_loss	1331257.2184840369
+train_loss	1069471.5935121765
+valid_loss	1317486.8759110947
+train_loss	1070170.5981735159
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1319789.7703468706
+train_loss	1068485.2395357687
+valid_loss	1335242.595827582
+train_loss	1067937.4191400304
+valid_loss	1325249.4216267676
+train_loss	1072079.935026636
+valid_loss	1309193.4865129353
+train_loss	1073518.811738965
+valid_loss	1324375.8483818523
+train_loss	1066791.4829718417
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1322941.9000898818
+train_loss	1069750.7496194826
+valid_loss	1315844.7901181695
+train_loss	1068436.7041476408
+valid_loss	1324549.7459887287
+train_loss	1066066.4488203956
+valid_loss	1325877.0853128273
+train_loss	1069060.6320395737
+valid_loss	1350799.5347648067
+train_loss	1064202.968607306
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1376336.4453206835
+train_loss	1065699.5182648401
+valid_loss	1330353.4328524626
+train_loss	1065727.7324010655
+valid_loss	1330696.8167479106
+train_loss	1066141.9849695587
+valid_loss	1334673.6299598736
+train_loss	1061974.9644216134
+valid_loss	1318399.3197007845
+train_loss	1061161.3298135465
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1315467.2583621573
+train_loss	1066284.0011415526
+valid_loss	1330336.1237018947
+train_loss	1060136.4713660579
+valid_loss	1339952.063724795
+train_loss	1070751.437975647
+valid_loss	1326602.0835625846
+train_loss	1060365.3617770167
+valid_loss	1337799.8836874508
+train_loss	1061620.3424657534
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1318118.5873075516
+train_loss	1063019.4062024353
+valid_loss	1352590.0889135606
+train_loss	1065966.208238204
+valid_loss	1330088.8611480882
+train_loss	1064320.226978691
+valid_loss	1314039.1681856124
+train_loss	1058785.615677321
+valid_loss	1339925.8116230033
+train_loss	1066408.6463089802
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1375644.1925751243
+train_loss	1064902.7202245053
+valid_loss	1334984.71351257
+train_loss	1069251.7064307458
+valid_loss	1345805.9535894128
+train_loss	1064101.767218417
+valid_loss	1318399.0735920314
+train_loss	1068400.428177321
+valid_loss	1330599.6749042533
+train_loss	1068657.5215943684
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1375382.500189584
+train_loss	1064223.9011605785
+valid_loss	1311648.6575590165
+train_loss	1063377.004280822
+valid_loss	1308253.0037759962
+train_loss	1070711.8042237442
+valid_loss	1339893.3884059119
+train_loss	1073971.6445015222
+valid_loss	1338709.5858618028
+train_loss	1067556.4195205478
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1335648.6813992122
+train_loss	1070037.3007990867
+valid_loss	1423439.4749817236
+train_loss	1074033.1058789955
+valid_loss	1343446.5010774923
+train_loss	1102642.2880517503
+valid_loss	1322752.510971325
+train_loss	1073082.2056697109
+valid_loss	1331596.8940497884
+train_loss	1081542.563261035
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1356945.7132343315
+train_loss	1069939.2341133943
+valid_loss	1320120.6283443174
+train_loss	1074165.5831430745
+valid_loss	1331997.681751102
+train_loss	1072552.5575532725
+valid_loss	1318444.1191147107
+train_loss	1074670.677606545
+valid_loss	1334658.820185656
+train_loss	1068128.1703767122
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1322111.893613336
+train_loss	1074506.5229261797
+valid_loss	1320612.609676425
+train_loss	1083434.8799467275
+valid_loss	1346500.0471682416
+train_loss	1072040.337804414
+valid_loss	1356162.580140865
+train_loss	1068325.0151255708
+valid_loss	1316132.9283508642
+train_loss	1069905.2943302891
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1342571.9037990463
+train_loss	1079088.0076103501
+valid_loss	1351241.4909742984
+train_loss	1078725.4808789955
+valid_loss	1334781.0731651264
+train_loss	1068735.9665144596
+valid_loss	1355059.8233857395
+train_loss	1082799.8282914765
+valid_loss	1344239.9072327001
+train_loss	1069777.3448439878
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1309634.7792627772
+train_loss	1078005.8881278539
+valid_loss	1331427.1748401492
+train_loss	1077136.1675228311
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1324501.0435661443
+train_loss	1075248.3897450534
+valid_loss	1331950.2430208516
+train_loss	1074194.6690449012
+valid_loss	1352113.436307939
+train_loss	1077935.0857115677
+valid_loss	1347197.3389149245
+train_loss	1122174.9925799086
+valid_loss	1349709.4896212956
+train_loss	1079248.179128615
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1337524.0526327633
+train_loss	1071691.3554033486
+valid_loss	1325817.6665332303
+train_loss	1068731.8115487061
+valid_loss	1331095.011827863
+train_loss	1067480.5831430745
+valid_loss	1371324.979264414
+train_loss	1075954.082762557
+valid_loss	1360949.069026329
+train_loss	1075720.5585996956
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1329832.6289662623
+train_loss	1068400.9928652968
+valid_loss	1330949.139322462
+train_loss	1076162.6601027397
+valid_loss	1319258.625474642
+train_loss	1066119.719939117
+valid_loss	1327370.848545522
+train_loss	1061492.8183980214
+valid_loss	1363051.6749656294
+train_loss	1069052.6122526636
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1306180.054668405
+train_loss	1066211.564973364
+valid_loss	1314187.2335095964
+train_loss	1065516.248953577
+valid_loss	1311753.043524545
+train_loss	1064341.548611111
+valid_loss	1299663.435212716
+train_loss	1067632.1170091324
+valid_loss	1336492.2159041932
+train_loss	1058641.0391933029
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1335957.5901492666
+train_loss	1060559.4384512939
+valid_loss	1336373.7863060297
+train_loss	1072244.3316210045
+valid_loss	1335568.089429802
+train_loss	1069694.8808980214
+valid_loss	1324155.5266137149
+train_loss	1063170.9277016742
+valid_loss	1317137.074328545
+train_loss	1061970.0613584474
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1322781.2027349207
+train_loss	1077635.7035768644
+valid_loss	1316623.21973611
+train_loss	1067018.3925989345
+valid_loss	1326075.204284327
+train_loss	1066202.249238965
+valid_loss	1313744.9872453571
+train_loss	1069563.8354261797
+valid_loss	1339419.0339232716
+train_loss	1070853.5515601218
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1330489.4803459977
+train_loss	1114885.0940829527
+valid_loss	1333157.8700994565
+train_loss	1065203.6831240486
+valid_loss	1304706.962506683
+train_loss	1016196.9441590563
+valid_loss	1294478.5716409523
+train_loss	1003934.1638127854
+valid_loss	1298609.1444439595
+train_loss	997988.3841324201
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1286604.5850345888
+train_loss	995464.7270738204
+valid_loss	1285380.4990698106
+train_loss	992908.7798706241
+valid_loss	1285147.4798440773
+train_loss	990910.6274733638
+valid_loss	1291817.571550934
+train_loss	989889.1260464231
+valid_loss	1281215.1456401122
+train_loss	987049.0340563166
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1282438.4783683224
+train_loss	988193.0198820395
+valid_loss	1282701.5319101345
+train_loss	985277.2928082192
+valid_loss	1284433.8069393223
+train_loss	983804.5776255708
+valid_loss	1282569.2139885759
+train_loss	982584.9044901065
+valid_loss	1271569.1208809793
+train_loss	981578.5630707763
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1280678.450789979
+train_loss	980961.731544901
+valid_loss	1274293.6050336615
+train_loss	979625.1985350077
+valid_loss	1267662.6051086767
+train_loss	979344.5656392694
+valid_loss	1273697.4503658018
+train_loss	978772.4162861492
+valid_loss	1281620.5576049122
+train_loss	977548.2091894977
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1269093.95490218
+train_loss	976454.3505517504
+valid_loss	1274959.8041078364
+train_loss	975160.1789383561
+valid_loss	1276678.641257856
+train_loss	977515.9051560122
+valid_loss	1270873.5329098834
+train_loss	975873.6826484018
+valid_loss	1286309.2958847983
+train_loss	974761.2729261796
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1269856.221194134
+train_loss	974546.1015030441
+valid_loss	1273285.2959816363
+train_loss	967900.0298706241
+valid_loss	1273432.1079047006
+train_loss	966860.8485540334
+valid_loss	1272185.9250474642
+train_loss	966034.5309170472
+valid_loss	1270493.3010267545
+train_loss	965893.2543759512
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1272573.3810012222
+train_loss	966018.8583523592
+valid_loss	1269994.295667936
+train_loss	965056.9319824962
+valid_loss	1270516.7353229204
+train_loss	965024.064783105
+valid_loss	1272278.6924864699
+train_loss	964842.7979452055
+valid_loss	1271976.2957579542
+train_loss	964405.2089992389
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1271445.0232861056
+train_loss	964027.8787100457
+valid_loss	1271628.7913538758
+train_loss	963797.982305936
+valid_loss	1273076.6896017916
+train_loss	963808.9503424658
+valid_loss	1274086.023498876
+train_loss	964089.2630327245
+valid_loss	1271971.991821971
+train_loss	963978.1104452055
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1271710.7611322668
+train_loss	964020.7294520548
+valid_loss	1273251.792000371
+train_loss	964446.078957382
+valid_loss	1272128.8286228287
+train_loss	963688.2137557077
+valid_loss	1271397.0388360904
+train_loss	963075.235825723
+valid_loss	1270946.4766211484
+train_loss	964052.6681887367
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1270555.8034367908
+train_loss	963637.4642313547
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1342855.0367302068
+train_loss	1063326.043283866
+valid_loss	1339669.7382164642
+train_loss	1064148.6630517503
+valid_loss	1339233.1059215695
+train_loss	1065535.209284627
+valid_loss	1329562.9869132442
+train_loss	1066863.0471841705
+valid_loss	1344550.0165763302
+train_loss	1068978.5505136987
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1330901.503157461
+train_loss	1066066.4177130898
+valid_loss	1356442.6363989122
+train_loss	1070396.2212709284
+valid_loss	1343951.2765117623
+train_loss	1067024.161910198
+valid_loss	1312023.0861639096
+train_loss	1071491.2028158295
+valid_loss	1366624.9350156304
+train_loss	1069759.1741818874
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1323754.8915388226
+train_loss	1063404.7673135465
+valid_loss	1331562.0173142075
+train_loss	1085657.462804414
+valid_loss	1362689.1268290088
+train_loss	1077964.2615106546
+valid_loss	1401839.2336528075
+train_loss	1075754.8481735159
+valid_loss	1312487.494251784
+train_loss	1069308.3085045663
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1336180.620904166
+train_loss	1061335.7532343988
+valid_loss	1324918.0694266378
+train_loss	1058590.3731925418
+valid_loss	1306081.6899209477
+train_loss	1060503.1212899543
+valid_loss	1309177.067089912
+train_loss	1069296.978500761
+valid_loss	1328667.8415370493
+train_loss	1064589.8011796044
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1330602.4915819222
+train_loss	1069210.570871385
+valid_loss	1321252.3735460676
+train_loss	1068362.674847793
+valid_loss	1321095.5649250392
+train_loss	1065284.6909246575
+valid_loss	1318035.5178672748
+train_loss	1059590.4408295283
+valid_loss	1436843.7319254102
+train_loss	1065595.8422754947
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1329274.424143871
+train_loss	1069931.6383181126
+valid_loss	1333270.8044897325
+train_loss	1059369.8770928462
+valid_loss	1323821.3384893832
+train_loss	1084062.2389649923
+valid_loss	1348836.9599732128
+train_loss	1070018.76369863
+valid_loss	1295415.34250952
+train_loss	1070895.9698439878
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1325872.4673656272
+train_loss	1067122.5701103501
+valid_loss	1347093.0292211778
+train_loss	1081915.140696347
+valid_loss	1309585.316963068
+train_loss	1073147.760844749
+valid_loss	1345127.2637953092
+train_loss	1099280.2870053272
+valid_loss	1331504.0097806281
+train_loss	1067844.5758181126
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1309069.2882877968
+train_loss	1065170.8464611871
+valid_loss	1341511.8113154406
+train_loss	1068864.9239916287
+valid_loss	1329544.362977097
+train_loss	1078606.300608828
+valid_loss	1336806.693011577
+train_loss	1064748.0242579908
+valid_loss	1334452.731438493
+train_loss	1065968.979261796
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1308321.5802267916
+train_loss	1071754.6898782344
+valid_loss	1329427.2561335217
+train_loss	1077884.4712709284
+valid_loss	1342292.1181749739
+train_loss	1086376.5611681887
+valid_loss	1329604.625396899
+train_loss	1078189.7425799086
+valid_loss	1338225.4606640353
+train_loss	1072865.5563165906
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1338556.8614270089
+train_loss	1138960.1444063927
+valid_loss	1343467.939548599
+train_loss	1083139.1987252664
+valid_loss	1310789.3786055068
+train_loss	1079844.4765030441
+valid_loss	1342074.4212632845
+train_loss	1068653.7674086757
+valid_loss	1345863.627633036
+train_loss	1072541.2827245053
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1347419.4115631273
+train_loss	1081443.4568112632
+valid_loss	1324430.316217348
+train_loss	1076494.01369863
+valid_loss	1349906.8732678292
+train_loss	1098844.9727929984
+valid_loss	1336309.0855508305
+train_loss	1089508.1327054794
+valid_loss	1331638.9816198936
+train_loss	1080933.0375761036
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1331861.648149714
+train_loss	1071549.0095129376
+valid_loss	1330703.431590842
+train_loss	1080487.7959474886
+valid_loss	1316902.642007668
+train_loss	1069935.3832762558
+valid_loss	1330603.6243930582
+train_loss	1079191.0400494672
+valid_loss	1350183.1951256439
+train_loss	1076209.148021309
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1335996.8694918328
+train_loss	1074602.8503614916
+valid_loss	1323937.1341573193
+train_loss	1076861.3949771689
+valid_loss	1314723.7558348246
+train_loss	1068241.3075532725
+valid_loss	1335525.8867842178
+train_loss	1069391.2481925418
+valid_loss	1345090.8110337923
+train_loss	1112362.150589802
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1341871.6110560242
+train_loss	1085048.210045662
+valid_loss	1355353.1708391071
+train_loss	1081206.3153538813
+valid_loss	1345804.6100590029
+train_loss	1086235.0002853882
+valid_loss	1336064.6331398394
+train_loss	1075947.9040144596
+valid_loss	1359971.406329107
+train_loss	1093553.9049657534
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1414243.812723682
+train_loss	1092143.9778348554
+valid_loss	1350992.9630065577
+train_loss	1116489.0784817352
+valid_loss	1332564.4138599588
+train_loss	1101120.175608828
+valid_loss	1346236.1345617198
+train_loss	1094959.4736491628
+valid_loss	1347764.2713009287
+train_loss	1078921.7779680365
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1370307.1993360466
+train_loss	1094514.143740487
+valid_loss	1340290.8986830045
+train_loss	1078482.282629376
+valid_loss	1363297.250017731
+train_loss	1084467.7744482497
+valid_loss	1341293.3486614546
+train_loss	1098540.9798325724
+valid_loss	1334210.3173991796
+train_loss	1084459.5664954337
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1454119.1082265843
+train_loss	1087151.0400494672
+valid_loss	1326132.146643271
+train_loss	1106245.6904490106
+valid_loss	1348816.8134724707
+train_loss	1099221.3130707762
+valid_loss	1332894.464113374
+train_loss	1091608.3866057838
+valid_loss	1369575.6911566537
+train_loss	1092994.6224315069
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1343400.4634389186
+train_loss	1109660.0269216134
+valid_loss	1344647.2140690468
+train_loss	1087872.7630327246
+valid_loss	1321518.7015394499
+train_loss	1087264.5798135465
+valid_loss	1357634.5182559902
+train_loss	1104278.162480974
+valid_loss	1349674.6069983796
+train_loss	1092414.3629185692
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1344828.2265979617
+train_loss	1090895.5449961948
+valid_loss	1368223.3408162207
+train_loss	1107079.4534817352
+valid_loss	1317298.8479829074
+train_loss	1088729.2823439878
+valid_loss	1353665.217637046
+train_loss	1084814.147260274
+valid_loss	1378857.907553902
+train_loss	1093075.5340563166
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1336481.0864448762
+train_loss	1092422.3914573821
+valid_loss	1331138.219864318
+train_loss	1081738.8875570777
+valid_loss	1339071.675683048
+train_loss	1075636.404870624
+valid_loss	1320198.5857983807
+train_loss	1079748.2148972603
+valid_loss	1360130.157884651
+train_loss	1141125.2060502283
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1351022.562722318
+train_loss	1090954.7134703195
+valid_loss	1330117.8132556083
+train_loss	1097666.8705289194
+valid_loss	1326462.0769677188
+train_loss	1086524.050608828
+valid_loss	1358001.9180113722
+train_loss	1089225.0709665145
+valid_loss	1338543.2575990474
+train_loss	1077915.2556126332
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1347093.0599794867
+train_loss	1095663.8305745814
+valid_loss	1315180.7617583035
+train_loss	1080085.6765601218
+valid_loss	1385284.3210953868
+train_loss	1073099.0805745814
+valid_loss	1370740.8246538385
+train_loss	1114829.279870624
+valid_loss	1513045.0695718946
+train_loss	1192469.4348363774
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1374304.3774223113
+train_loss	1218299.551655251
+valid_loss	1341934.3731314377
+train_loss	1126070.1661910198
+valid_loss	1327534.0004828256
+train_loss	1118309.7744482497
+valid_loss	1337366.9361128993
+train_loss	1097575.7890030441
+valid_loss	1343295.7215978527
+train_loss	1089540.0977929984
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1335487.796463098
+train_loss	1103841.472888128
+valid_loss	1342561.5878960807
+train_loss	1099203.8950722984
+valid_loss	1355076.8357247293
+train_loss	1087120.4950532725
+valid_loss	1345465.2057873604
+train_loss	1085608.6270928462
+valid_loss	1343026.5469472874
+train_loss	1100677.2756849315
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1331221.1922368738
+train_loss	1084057.608828006
+valid_loss	1433007.5589374565
+train_loss	1080250.9372146118
+valid_loss	1340580.1129075375
+train_loss	1089924.457762557
+valid_loss	1351447.7907394324
+train_loss	1087931.9241818874
+valid_loss	1351199.2123764295
+train_loss	1104490.119958143
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1332312.8626688526
+train_loss	1097420.8049847793
+valid_loss	1339831.8694318207
+train_loss	1112006.2133751903
+valid_loss	1353378.7037251221
+train_loss	1111751.1538242009
+valid_loss	1347871.1104518103
+train_loss	1096707.4810692542
+valid_loss	1426468.1821091294
+train_loss	1111832.4154299847
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1568828.2410247633
+train_loss	1129330.2231735159
+valid_loss	1358547.9315492427
+train_loss	1124625.457191781
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1312508.9731005451
+train_loss	1092180.7296423134
+valid_loss	1310799.3842964387
+train_loss	1078063.7382039574
+valid_loss	1321538.4197513857
+train_loss	1067313.6954908676
+valid_loss	1332744.4690432416
+train_loss	1069385.834760274
+valid_loss	1316326.9148385671
+train_loss	1078632.241152968
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1320793.540937882
+train_loss	1068862.2114726028
+valid_loss	1341484.7371955744
+train_loss	1162066.4595700153
+valid_loss	1315385.1628445247
+train_loss	1088430.933980213
+valid_loss	1323654.11178981
+train_loss	1065041.6175799086
+valid_loss	1329679.8179324698
+train_loss	1070009.5822869102
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1327767.9525971652
+train_loss	1075414.3244863013
+valid_loss	1332496.8310192258
+train_loss	1077307.806697108
+valid_loss	1325407.4188835954
+train_loss	1073297.1671423134
+valid_loss	1318870.1248554252
+train_loss	1072804.6660958903
+valid_loss	1324211.7276727261
+train_loss	1065601.0481354643
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1336957.1543036946
+train_loss	1073858.6328006089
+valid_loss	2699377.190088709
+train_loss	1074510.6350837138
+valid_loss	1360080.285649987
+train_loss	1314270.366628615
+valid_loss	1329291.5463955842
+train_loss	1101458.656868341
+valid_loss	1324714.0995507266
+train_loss	1088738.4623287672
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1336288.2288429644
+train_loss	1071291.8334284627
+valid_loss	1337812.060738846
+train_loss	1069209.5540334855
+valid_loss	1333463.7028784726
+train_loss	1077791.3875570777
+valid_loss	1343048.195771116
+train_loss	1079146.4900114154
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1329323.2111564083
+train_loss	1079027.2659817352
+valid_loss	1343276.1874645383
+train_loss	1081033.2031012177
+valid_loss	1345722.2027178716
+train_loss	1069813.5474695587
+valid_loss	1331889.6546160309
+train_loss	1083252.4349315069
+valid_loss	1354590.9096741064
+train_loss	1075164.3647260275
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1329229.1021939921
+train_loss	1071486.1621004567
+valid_loss	1337099.7481232542
+train_loss	1088350.6026445967
+valid_loss	1333639.4749009116
+train_loss	1076898.0922754947
+valid_loss	1329552.9249322135
+train_loss	1067219.6830289194
+valid_loss	1315476.3343035309
+train_loss	1078540.7333523592
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1321575.335462858
+train_loss	1074500.4862062405
+valid_loss	1335263.8331312467
+train_loss	1067826.4275114154
+valid_loss	1316477.4036444125
+train_loss	1115259.3984969559
+valid_loss	1331445.5424716033
+train_loss	1087608.2728310502
+valid_loss	1342777.063596587
+train_loss	1100329.2441019786
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1307267.326506034
+train_loss	1070163.914478691
+valid_loss	1328862.687816428
+train_loss	1071160.5449961948
+valid_loss	1346183.0191534457
+train_loss	1079901.8824200914
+valid_loss	1341297.468860477
+train_loss	1071109.8824200914
+valid_loss	1324393.2499358961
+train_loss	1093950.994197108
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1308845.5703472798
+train_loss	1070321.9299847793
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1371505.6968080318
+train_loss	1082526.3648211567
+valid_loss	1351589.9111137176
+train_loss	1078417.7951864535
+valid_loss	1307727.2212855164
+train_loss	1023298.428652968
+valid_loss	1301488.5077061148
+train_loss	1011514.4422564688
+valid_loss	1286938.898103341
+train_loss	1005213.9403538813
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1288724.0042990572
+train_loss	1001326.1649543379
+valid_loss	1293073.0150467004
+train_loss	997749.0173135464
+valid_loss	1286149.5041551644
+train_loss	993652.783390411
+valid_loss	1285947.2135453038
+train_loss	992543.1939687976
+valid_loss	1287407.1408077646
+train_loss	990433.7812024353
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1291381.8041528456
+train_loss	989236.6143455099
+valid_loss	1280860.6881096696
+train_loss	986939.8098363775
+valid_loss	1286115.9792480469
+train_loss	985724.346651446
+valid_loss	1297574.0342478831
+train_loss	983873.7510464231
+valid_loss	1287424.2120204477
+train_loss	985069.0217846271
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1284771.3040300934
+train_loss	982006.0031392694
+valid_loss	1282141.134861099
+train_loss	982177.4763127854
+valid_loss	1279735.3010267545
+train_loss	980871.2004375951
+valid_loss	1279646.1869367035
+train_loss	979689.4747907154
+valid_loss	1279889.1205031753
+train_loss	978799.5545091324
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1285805.690485608
+train_loss	977306.9138127854
+valid_loss	1281519.6390285385
+train_loss	978283.3627283105
+valid_loss	1272439.1407613915
+train_loss	977449.0045662101
+valid_loss	1280169.7438951205
+train_loss	976301.8998287672
+valid_loss	1284863.0144117984
+train_loss	975301.0861872146
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1277826.921429
+train_loss	975842.2123287672
+valid_loss	1274975.9080967398
+train_loss	975025.6423135464
+valid_loss	1276487.8597371192
+train_loss	973345.5508942162
+valid_loss	1277195.6446669595
+train_loss	973332.5261605784
+valid_loss	1268020.0867510748
+train_loss	972291.4006849315
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1279474.7403503077
+train_loss	971888.8854642314
+valid_loss	1284282.5323574983
+train_loss	971036.5239726028
+valid_loss	1271630.0744928967
+train_loss	973379.6347983257
+valid_loss	1272915.5779845167
+train_loss	972420.652587519
+valid_loss	1269806.5599835785
+train_loss	970466.1416476408
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1270144.1947369282
+train_loss	969904.6303272451
+valid_loss	1273101.7829385258
+train_loss	970840.9569063927
+valid_loss	1268998.1281015407
+train_loss	971446.9237062405
+valid_loss	1268307.4636905605
+train_loss	973152.6622907154
+valid_loss	1276160.6101497032
+train_loss	969264.8306697108
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1276326.8065212825
+train_loss	968763.2534246575
+valid_loss	1271981.0490722656
+train_loss	969145.4139079148
+valid_loss	1268203.824632016
+train_loss	967911.5454718417
+valid_loss	1274974.3423601715
+train_loss	967293.6038812785
+valid_loss	1282183.8935996967
+train_loss	966881.0046613395
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1270063.8067797443
+train_loss	966684.7430555555
+valid_loss	1266729.7512657123
+train_loss	966697.3440829528
+valid_loss	1264937.7091698672
+train_loss	966452.4409246575
+valid_loss	1264149.745158105
+train_loss	965414.778063166
+valid_loss	1280403.9975408628
+train_loss	970082.188261035
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1272279.1141814333
+train_loss	967778.7214611872
+valid_loss	1279575.8277137799
+train_loss	965335.8637747336
+valid_loss	1272953.0765128536
+train_loss	963686.6233828006
+valid_loss	1267843.1273268375
+train_loss	957557.1387937595
+valid_loss	1267822.944631907
+train_loss	956305.1458333334
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267670.6679101016
+train_loss	956136.510369102
+valid_loss	1269037.5982059073
+train_loss	955600.5572678844
+valid_loss	1269676.0200099838
+train_loss	955176.6626712328
+valid_loss	1269482.7161217376
+train_loss	955303.9321727549
+valid_loss	1270594.1528470344
+train_loss	955003.7463850838
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1269778.9211493977
+train_loss	954721.1970129376
+valid_loss	1269358.8709396278
+train_loss	954972.4303652968
+valid_loss	1269110.3409662512
+train_loss	954621.2346841705
+valid_loss	1269193.8343444483
+train_loss	954782.87652207
+valid_loss	1269328.9013780989
+train_loss	954991.8882229832
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1268563.0985250634
+train_loss	955170.6556316591
+valid_loss	1266784.7806075965
+train_loss	953687.8836567733
+valid_loss	1271494.0130772085
+train_loss	953944.5429984779
+valid_loss	1270906.1214783739
+train_loss	954314.3182077626
+valid_loss	1270521.7834554492
+train_loss	953976.5085616439
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1269823.1722814464
+train_loss	954103.1259512937
+valid_loss	1273769.2701491031
+train_loss	954485.2022450533
+valid_loss	1268318.663285069
+train_loss	954171.3782343988
+valid_loss	1269884.872366282
+train_loss	954250.014174277
+valid_loss	1268213.7274763226
+train_loss	953731.8965943684
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1268699.7959161685
+train_loss	953748.5380517504
+valid_loss	1268015.5819603265
+train_loss	953829.6416476408
+valid_loss	1267392.6409946207
+train_loss	953956.00152207
+valid_loss	1267853.8883799973
+train_loss	953245.1259512937
+valid_loss	1269815.7197374739
+train_loss	953614.6444063927
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1268722.9522125414
+train_loss	953298.2673135464
+valid_loss	1266989.8649888705
+train_loss	953503.9302701674
+valid_loss	1267896.5985891672
+train_loss	953552.2081430745
+valid_loss	1268109.3578910613
+train_loss	953345.124238965
+valid_loss	1269281.8977910047
+train_loss	953477.3047945206
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267408.2772605512
+train_loss	952519.7389649923
+valid_loss	1268118.4851415197
+train_loss	953028.7493340943
+valid_loss	1267871.1813596587
+train_loss	952303.642218417
+valid_loss	1267019.5010563515
+train_loss	953128.0852359209
+valid_loss	1268207.4669400859
+train_loss	952793.0696347032
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267820.9353968445
+train_loss	952612.158675799
+valid_loss	1265005.4737289685
+train_loss	952754.2281202435
+valid_loss	1266668.0943078408
+train_loss	952528.2993721461
+valid_loss	1266018.4985337923
+train_loss	952029.3535007611
+valid_loss	1266558.235756645
+train_loss	952725.0677321156
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267110.0056493322
+train_loss	952741.320871385
+valid_loss	1265141.901296264
+train_loss	952257.8997336377
+valid_loss	1267672.479864536
+train_loss	952519.9222792998
+valid_loss	1268691.8276735444
+train_loss	951596.8967846271
+valid_loss	1267799.6012842616
+train_loss	951653.7203196347
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267360.1103215565
+train_loss	952195.2071917808
+valid_loss	1269304.8374487169
+train_loss	951282.7149923897
+valid_loss	1267524.4481017042
+train_loss	951583.9692732116
+valid_loss	1268286.0325307155
+train_loss	952000.1098744292
+valid_loss	1267798.7236219011
+train_loss	952386.3392313547
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267293.9517829085
+train_loss	951047.336282344
+valid_loss	1267678.5931553335
+train_loss	951004.6339421613
+valid_loss	1267412.5554908453
+train_loss	950960.8231544901
+valid_loss	1267268.0714104509
+train_loss	950118.4590943684
+valid_loss	1268266.3466346783
+train_loss	950106.2332572298
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1268453.4435571425
+train_loss	950781.3701484018
+valid_loss	1267458.4050156577
+train_loss	950877.4681316591
+valid_loss	1267543.2377731919
+train_loss	950781.6222412481
+valid_loss	1267662.9106117974
+train_loss	950118.6703767123
+valid_loss	1267634.971974293
+train_loss	950481.4801179605
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1268026.5798285287
+train_loss	950060.7393455099
+valid_loss	1267453.7399725034
+train_loss	950264.1662861492
+valid_loss	1267360.486674559
+train_loss	950291.201674277
+valid_loss	1267501.9325803618
+train_loss	950468.2085235921
+valid_loss	1267448.2442756526
+train_loss	950149.472412481
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267330.0119015146
+train_loss	950425.6225266362
+valid_loss	1267153.9298286652
+train_loss	950470.6617199391
+valid_loss	1267073.1002326838
+train_loss	950289.2700722984
+valid_loss	1266935.0873832488
+train_loss	950487.8956430745
+valid_loss	1267734.4377141346
+train_loss	950140.0950342466
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1268286.7681223268
+train_loss	949981.6930175038
+valid_loss	1267829.1103242843
+train_loss	950366.7210806697
+valid_loss	1267504.121075337
+train_loss	950204.3555936073
+valid_loss	1267298.0159768898
+train_loss	950732.8952625571
+valid_loss	1266969.559818545
+train_loss	950798.6893074581
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267561.2617569396
+train_loss	949540.4053462709
+valid_loss	1267538.2918339735
+train_loss	950458.3328576864
+valid_loss	1267666.247348551
+train_loss	951021.8005136986
+valid_loss	1267615.058102741
+train_loss	950619.3668188737
+valid_loss	1267680.7547791551
+train_loss	950398.7294520548
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267914.2403257573
+train_loss	949739.971936834
+valid_loss	1268051.5055811366
+train_loss	950279.7303082192
+valid_loss	1267472.139214713
+train_loss	950304.4074391172
+valid_loss	1266903.3267542664
+train_loss	950338.7011986302
+valid_loss	1267423.4058115017
+train_loss	949850.4898211567
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267014.9244746203
+train_loss	950000.4787861492
+valid_loss	1266611.4246764795
+train_loss	950158.1609589041
+valid_loss	1267259.924289128
+train_loss	950633.4785958905
+valid_loss	1267560.4248810667
+train_loss	950848.7726407915
+valid_loss	1267341.1722255258
+train_loss	950149.5927511415
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267068.1640399955
+train_loss	950159.1697108067
+valid_loss	1267580.3275262418
+train_loss	949636.8539764079
+valid_loss	1267931.8196012187
+train_loss	950264.9648972603
+valid_loss	1267588.6974695302
+train_loss	949923.3383751903
+valid_loss	1267012.6210207806
+train_loss	950249.1360350077
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267154.2059012472
+train_loss	950481.1013127854
+valid_loss	1267441.5792161312
+train_loss	950129.486444064
+valid_loss	1266730.4677597983
+train_loss	949720.3597792998
+valid_loss	1267062.1271740792
+train_loss	949437.1069254186
+valid_loss	1267320.9268860205
+train_loss	949883.9496765601
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267497.8944057699
+train_loss	950342.5441400304
+valid_loss	1267427.9563370177
+train_loss	950395.3993531202
+valid_loss	1267380.7869402496
+train_loss	949418.7261225267
+valid_loss	1267375.4824436975
+train_loss	950054.2363013698
+valid_loss	1267272.0185874214
+train_loss	949924.5014269407
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267326.6573111252
+train_loss	949577.724695586
+valid_loss	1267288.1838378906
+train_loss	950112.1321347032
+valid_loss	1267325.264432939
+train_loss	950073.6813165905
+valid_loss	1267403.5531244543
+train_loss	949901.722412481
+valid_loss	1267309.0541746684
+train_loss	949635.4453006089
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267386.2482323672
+train_loss	950542.4441590563
+valid_loss	1267299.9128349773
+train_loss	950086.3894596652
+valid_loss	1267325.6408882355
+train_loss	949961.4722222222
+valid_loss	1267253.3860395208
+train_loss	949685.653063166
+valid_loss	1267380.8451275532
+train_loss	949874.7727359209
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267419.8356592616
+train_loss	949902.3986872146
+valid_loss	1267366.4291187478
+train_loss	950326.6835996956
+valid_loss	1267205.9896547114
+train_loss	949810.5155060883
+valid_loss	1267292.6849385693
+train_loss	950235.6753234399
+valid_loss	1267336.7414496224
+train_loss	950480.9213280061
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267268.2582789587
+train_loss	949246.6054033486
+valid_loss	1267315.560834661
+train_loss	949856.2544710807
+valid_loss	1267296.6165273655
+train_loss	949668.650304414
+valid_loss	1267353.87541463
+train_loss	949326.5357686453
+valid_loss	1267321.0366019988
+train_loss	949704.88261035
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267266.508810885
+train_loss	950693.3605403348
+valid_loss	1267218.018861568
+train_loss	949720.2726407915
+valid_loss	1267221.9322380193
+train_loss	949793.6081621004
+valid_loss	1267355.4142466283
+train_loss	950437.8367579909
+valid_loss	1267315.061830318
+train_loss	950144.2126141553
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267322.2552210633
+train_loss	949565.1002663623
+valid_loss	1267317.2929005544
+train_loss	949847.0165525114
+valid_loss	1267313.7766699765
+train_loss	950687.9841133942
+valid_loss	1267280.5870859157
+train_loss	949928.4662290715
+valid_loss	1267339.9048342572
+train_loss	949758.7141362253
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267324.6941422618
+train_loss	949866.0039954338
+valid_loss	1267298.2248685188
+train_loss	950504.667522831
+valid_loss	1267374.350768702
+train_loss	950094.408675799
+valid_loss	1267391.5132981625
+train_loss	950373.6421232877
+valid_loss	1267304.319120439
+train_loss	949552.2904299848
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267362.9690950704
+train_loss	949742.7460996956
+valid_loss	1267284.1829022455
+train_loss	949773.0217846271
+valid_loss	1267303.045127826
+train_loss	949791.4528158295
+valid_loss	1267280.8139989416
+train_loss	949743.1705669711
+valid_loss	1267336.7112675672
+train_loss	950362.9806887367
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267238.1793683441
+train_loss	949793.1274733638
+valid_loss	1267271.8077767654
+train_loss	950212.0752473364
+valid_loss	1267256.34864236
+train_loss	950469.4368340943
+valid_loss	1267259.925208406
+train_loss	950121.8515030441
+valid_loss	1267370.286791583
+train_loss	949862.7400114156
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267370.5750152757
+train_loss	949544.5970319635
+valid_loss	1267420.0962214123
+train_loss	950236.9958143075
+valid_loss	1267424.625287786
+train_loss	949731.7908105023
+valid_loss	1267434.8659872555
+train_loss	950127.598934551
+valid_loss	1267397.580871923
+train_loss	949516.9660388128
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267348.1690557895
+train_loss	949535.0584094368
+valid_loss	1267462.2141686126
+train_loss	949598.1749429224
+valid_loss	1267335.1785854574
+train_loss	949830.4927701674
+valid_loss	1267410.0039144335
+train_loss	950027.6215753425
+valid_loss	1267347.1230059576
+train_loss	950247.6707572298
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267439.3418568873
+train_loss	949690.2084284627
+valid_loss	1267386.176430473
+train_loss	949495.4014459666
+valid_loss	1267414.3925426633
+train_loss	949527.972412481
+valid_loss	1267317.209588589
+train_loss	950015.7274543379
+valid_loss	1267386.232310034
+train_loss	949661.9498668188
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267395.1666443895
+train_loss	950034.0210235921
+valid_loss	1267355.0150180582
+train_loss	950028.8743340943
+valid_loss	1267389.9004833712
+train_loss	950142.7271689498
+valid_loss	1267362.019819036
+train_loss	949909.088565449
+valid_loss	1267403.279601028
+train_loss	950190.7482876712
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267411.6283729596
+train_loss	950571.958238204
+valid_loss	1267374.0680484027
+train_loss	949849.1472602739
+valid_loss	1267392.241152289
+train_loss	950442.1446917808
+valid_loss	1267381.1197993956
+train_loss	950539.6650494672
+valid_loss	1267397.6325315337
+train_loss	949612.777587519
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267413.3632444243
+train_loss	949668.1494482496
+valid_loss	1267455.3000706506
+train_loss	949841.7290715373
+valid_loss	1267357.74329909
+train_loss	949882.884608067
+valid_loss	1267461.8484855099
+train_loss	949681.7804414004
+valid_loss	1267448.863803629
+train_loss	949836.9394025875
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267405.4336674013
+train_loss	949930.4675608828
+valid_loss	1267462.503985357
+train_loss	949738.9766933029
+valid_loss	1267387.7639037403
+train_loss	950166.4572869102
+valid_loss	1267392.3357547354
+train_loss	949800.5352929984
+valid_loss	1267397.7770300498
+train_loss	949428.6802701674
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267372.9440004146
+train_loss	950012.0208333334
+valid_loss	1267426.1296754975
+train_loss	949561.6523972603
+valid_loss	1267392.6281179076
+train_loss	950051.9290334856
+valid_loss	1267379.1700459912
+train_loss	950416.3455098935
+valid_loss	1267411.800989929
+train_loss	950135.648782344
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267397.6048263465
+train_loss	950211.2446727549
+valid_loss	1267383.5127444135
+train_loss	949428.7246004567
+valid_loss	1267341.042395906
+train_loss	949988.2497146119
+valid_loss	1267401.2890747753
+train_loss	949747.2711187215
+valid_loss	1267366.0646577121
+train_loss	949747.5101788433
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267326.0377681456
+train_loss	949732.9326484018
+valid_loss	1267468.8159206966
+train_loss	949730.0682077626
+valid_loss	1267407.2589813743
+train_loss	949762.553652968
+valid_loss	1267302.8253289761
+train_loss	950012.8378995433
+valid_loss	1267388.9976417925
+train_loss	949750.8897450533
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267349.698219001
+train_loss	950173.9157153729
+valid_loss	1267350.2011664193
+train_loss	949809.8745243531
+valid_loss	1267353.9777654721
+train_loss	949320.9868721461
+valid_loss	1267354.7960116423
+train_loss	950220.4330289193
+valid_loss	1267323.3650788888
+train_loss	949700.2553272451
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267342.2592623406
+train_loss	949174.87652207
+valid_loss	1267367.3270093182
+train_loss	949209.3780441401
+valid_loss	1267336.990077525
+train_loss	949823.6751331812
+valid_loss	1267378.5834060754
+train_loss	950279.9317922374
+valid_loss	1267352.3844423774
+train_loss	950158.0625
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267389.4197745724
+train_loss	950013.1792237443
+valid_loss	1267346.2463392545
+train_loss	949304.8183028919
+valid_loss	1267356.4362424712
+train_loss	949809.4606164383
+valid_loss	1267393.2113453103
+train_loss	949900.8769977168
+valid_loss	1267368.3370736404
+train_loss	949782.7958523592
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267415.7713016104
+train_loss	949892.7907153729
+valid_loss	1267371.7169619086
+train_loss	950014.607305936
+valid_loss	1267363.9377427767
+train_loss	949205.5563165905
+valid_loss	1267356.2667570487
+train_loss	949943.4941971081
+valid_loss	1267358.6961608545
+train_loss	950145.2958523592
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267348.6160690903
+train_loss	949945.3604927702
+valid_loss	1267359.1198935055
+train_loss	949714.2265981735
+valid_loss	1267351.8329041551
+train_loss	950180.9203767123
+valid_loss	1267349.849818054
+train_loss	949821.293759513
+valid_loss	1267310.40116942
+train_loss	949789.0968892694
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267362.1085580154
+train_loss	950092.7567541857
+valid_loss	1267383.303690479
+train_loss	949932.4914383561
+valid_loss	1267388.8703981538
+train_loss	949833.0614535769
+valid_loss	1267343.0749157101
+train_loss	949327.3449391172
+valid_loss	1267308.3910232629
+train_loss	950104.0826674277
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267368.6327974969
+train_loss	949457.3848934551
+valid_loss	1267337.3612381066
+train_loss	949992.0458523592
+valid_loss	1267384.168538866
+train_loss	950090.7050038052
+valid_loss	1267329.4856543515
+train_loss	949853.5519406393
+valid_loss	1267354.2069453234
+train_loss	949639.1097792998
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267384.0495687304
+train_loss	949720.0496575342
+valid_loss	1267306.205904657
+train_loss	950401.268740487
+valid_loss	1267332.8785052593
+train_loss	949704.1293759512
+valid_loss	1267368.0387406163
+train_loss	950264.4157153729
+valid_loss	1267380.7015264926
+train_loss	950138.3909817352
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267349.2744508882
+train_loss	950081.5044710807
+valid_loss	1267384.0405682612
+train_loss	949282.4454908676
+valid_loss	1267365.4317715608
+train_loss	949805.5869482496
+valid_loss	1267302.5195176108
+train_loss	949724.4403538813
+valid_loss	1267407.245237212
+train_loss	949772.919044901
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267366.0111104443
+train_loss	950792.0573630137
+valid_loss	1267410.200442181
+train_loss	949859.984303653
+valid_loss	1267428.419508609
+train_loss	950169.5915144597
+valid_loss	1267428.416809423
+train_loss	949680.5292047184
+valid_loss	1267335.2985771648
+train_loss	950087.1985350077
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267427.2416883074
+train_loss	950498.1352739726
+valid_loss	1267325.4045914805
+train_loss	949785.75761035
+valid_loss	1267377.7064515864
+train_loss	949877.0920852359
+valid_loss	1267356.5990242558
+train_loss	949899.1230974125
+valid_loss	1267426.6176948762
+train_loss	950004.9614726028
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267366.9730108676
+train_loss	950181.020738204
+valid_loss	1267412.1885924952
+train_loss	950155.5167427702
+valid_loss	1267362.058769695
+train_loss	950003.8114535769
+valid_loss	1267370.2298372579
+train_loss	949928.7817732116
+valid_loss	1267345.3933323694
+train_loss	949808.6332762557
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267417.242296613
+train_loss	949862.3939307458
+valid_loss	1267306.2114694265
+train_loss	950083.2108066971
+valid_loss	1267331.7512820791
+train_loss	950155.055175038
+valid_loss	1267380.3362648394
+train_loss	950268.3854642314
+valid_loss	1267323.8635022042
+train_loss	949711.2979452055
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267325.455570498
+train_loss	949606.8518835617
+valid_loss	1267374.4201551042
+train_loss	949853.0352929984
+valid_loss	1267402.4999127095
+train_loss	949932.9806887367
+valid_loss	1267362.6128475254
+train_loss	949412.0128424658
+valid_loss	1267384.5948424952
+train_loss	949526.4952435312
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267373.8777114612
+train_loss	949790.1292808219
+valid_loss	1267467.4813007377
+train_loss	949538.3366628615
+valid_loss	1267384.2141236034
+train_loss	949580.8356164383
+valid_loss	1267367.7082587727
+train_loss	950016.6481164383
+valid_loss	1267392.9533705045
+train_loss	950181.9765981735
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267387.4821163584
+train_loss	950169.9899162862
+valid_loss	1267362.4325708144
+train_loss	949770.9882990868
+valid_loss	1267355.3747217616
+train_loss	949961.2519977168
+valid_loss	1267408.4217495199
+train_loss	950204.9608066971
+valid_loss	1267358.4369407953
+train_loss	949726.7750190259
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267373.8143822015
+train_loss	949721.3897450533
+valid_loss	1267407.8655276166
+train_loss	950086.616628615
+valid_loss	1267331.735835752
+train_loss	949476.2678843227
+valid_loss	1267408.1006950506
+train_loss	950160.5151255708
+valid_loss	1267338.4990411685
+train_loss	950033.2806316591
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267336.3352214452
+train_loss	950219.3541666666
+valid_loss	1267296.0773857585
+train_loss	950160.8918378996
+valid_loss	1267315.3906454586
+train_loss	949741.2302130898
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1353187.2967358807
+train_loss	1054363.8502663623
+valid_loss	1329275.9497547683
+train_loss	1083246.6420281583
+valid_loss	1398324.4484795085
+train_loss	1095152.2574200914
+valid_loss	1326824.388800083
+train_loss	1082763.1229071538
+valid_loss	1346958.8857312761
+train_loss	1062692.7038622526
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1305688.2572205614
+train_loss	1101290.5993150685
+valid_loss	1330144.4276961854
+train_loss	1085085.073344749
+valid_loss	1361274.576362823
+train_loss	1069399.2041476408
+valid_loss	1316236.3790999257
+train_loss	1071227.5321537291
+valid_loss	1336965.8932355316
+train_loss	1067254.3645357687
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1345956.877302287
+train_loss	1079243.5234018264
+valid_loss	1342602.2752665088
+train_loss	1066102.4595700153
+valid_loss	1330028.2293810286
+train_loss	1072825.916000761
+valid_loss	1344344.695995821
+train_loss	1072580.9814497717
+valid_loss	1337176.4403137548
+train_loss	1086012.5171232878
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1343142.7867833995
+train_loss	1060106.9444444445
+valid_loss	1363936.9851149234
+train_loss	1162166.8729071538
+valid_loss	1335602.4058565109
+train_loss	1082359.5939878235
+valid_loss	1371873.602468821
+train_loss	1073397.1496385084
+valid_loss	1332145.6899734582
+train_loss	1076079.5127473364
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1328481.0839154974
+train_loss	1175853.4894406393
+valid_loss	1340639.5722506219
+train_loss	1087508.136130137
+valid_loss	1332175.5202432133
+train_loss	1094465.956716134
+valid_loss	1326609.2615141629
+train_loss	1073925.1654299847
+valid_loss	1315033.3899048534
+train_loss	1076874.4457762558
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1327594.4678689116
+train_loss	1077993.1640981736
+valid_loss	1392713.0621931194
+train_loss	1070211.911910198
+valid_loss	1325585.706189715
+train_loss	1093785.5557458142
+valid_loss	1303238.1618502312
+train_loss	1035212.4071537291
+valid_loss	1291959.135939955
+train_loss	1019534.6006468798
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1287889.124110046
+train_loss	1010968.9265601218
+valid_loss	1287666.3230335086
+train_loss	1007242.893740487
+valid_loss	1283736.6769023873
+train_loss	1002835.1241438356
+valid_loss	1291443.8001961308
+train_loss	998693.7505707763
+valid_loss	1281218.471926556
+train_loss	997338.8723363775
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1280236.5887457991
+train_loss	994744.4220890411
+valid_loss	1271184.9163252334
+train_loss	991881.2030060883
+valid_loss	1278405.7835113695
+train_loss	990922.1661910198
+valid_loss	1277565.1443948585
+train_loss	988912.8363774733
+valid_loss	1275691.84663877
+train_loss	987861.2539954338
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1279402.1662283957
+train_loss	986472.2297374429
+valid_loss	1275779.3362314235
+train_loss	986030.4615677322
+valid_loss	1280098.8419196273
+train_loss	985522.7992770168
+valid_loss	1278717.174845605
+train_loss	984662.5641171994
+valid_loss	1272689.7033036728
+train_loss	983344.2365867579
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1286719.3943525772
+train_loss	982741.2965182648
+valid_loss	1280096.5110599794
+train_loss	983497.2361111111
+valid_loss	1275273.7509506482
+train_loss	980929.8396118721
+valid_loss	1276285.2467361535
+train_loss	981602.9040144597
+valid_loss	1283829.7456545697
+train_loss	980014.4375
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1275427.865853592
+train_loss	979246.6245243531
+valid_loss	1279125.2565481516
+train_loss	977892.6983447488
+valid_loss	1271132.8341057634
+train_loss	979037.5173135464
+valid_loss	1266694.6477446316
+train_loss	977441.2309741249
+valid_loss	1272955.4142616314
+train_loss	980357.679128615
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1272733.865216644
+train_loss	978967.919805936
+valid_loss	1274227.104134842
+train_loss	977028.1660007611
+valid_loss	1265108.149802778
+train_loss	976818.6211948249
+valid_loss	1272075.5537054818
+train_loss	979402.3692922374
+valid_loss	1281195.5431119609
+train_loss	975175.2861491629
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1274261.728752946
+train_loss	974914.9542427702
+valid_loss	1277168.2437491817
+train_loss	975060.205479452
+valid_loss	1277047.244585261
+train_loss	976659.644216134
+valid_loss	1274461.3092661595
+train_loss	971588.2390601218
+valid_loss	1266265.26016116
+train_loss	972690.0450913243
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1275676.1980294168
+train_loss	974843.7674086757
+valid_loss	1268616.7076872927
+train_loss	971944.8632039573
+valid_loss	1271742.2911233741
+train_loss	971352.0383371385
+valid_loss	1273581.0715004692
+train_loss	972551.3998287672
+valid_loss	1276929.023198815
+train_loss	971157.5923706241
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1274823.9446264512
+train_loss	972620.2976598174
+valid_loss	1268919.2057689475
+train_loss	976902.6787480974
+valid_loss	1272602.757208286
+train_loss	971337.1136796043
+valid_loss	1284747.841162655
+train_loss	969317.4140981735
+valid_loss	1274957.8336229378
+train_loss	969741.0805745814
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1270945.771229323
+train_loss	969254.9856354642
+valid_loss	1266123.0295232846
+train_loss	969549.4764079148
+valid_loss	1276302.3385343924
+train_loss	968531.4176179605
+valid_loss	1270370.3661018244
+train_loss	969274.4751712328
+valid_loss	1266898.1157785768
+train_loss	961997.6835996956
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1265769.2671914555
+train_loss	960600.250761035
+valid_loss	1265051.0051978766
+train_loss	959699.5847602739
+valid_loss	1266739.9517897281
+train_loss	959186.686263318
+valid_loss	1265875.6409509755
+train_loss	958830.4491057838
+valid_loss	1267798.1316552188
+train_loss	960161.5086567733
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1266579.7899422245
+train_loss	958799.3781392694
+valid_loss	1266144.0098951969
+train_loss	959254.060216895
+valid_loss	1265629.4216322233
+train_loss	958987.8326674277
+valid_loss	1266658.6925219318
+train_loss	958133.6269025875
+valid_loss	1266022.6143901122
+train_loss	958631.1504946727
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267953.3586071164
+train_loss	958384.6418378996
+valid_loss	1266747.0864489677
+train_loss	958339.5154109589
+valid_loss	1268546.6101115136
+train_loss	958998.2011986302
+valid_loss	1268759.8466374062
+train_loss	958404.6342275494
+valid_loss	1268886.3096521473
+train_loss	958621.5224505328
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267608.898357029
+train_loss	958012.7949961948
+valid_loss	1266864.923207544
+train_loss	957669.9553843227
+valid_loss	1265248.3378006066
+train_loss	957215.2900494672
+epoch : 1	./201804302330_CDAE.hdf5
+valid_loss	2272974.721175039
+train_loss	2614070.8316210047
+valid_loss	1267034.8607921067
+train_loss	957614.1503995433
+valid_loss	1916152.1842116031
+train_loss	2131060.745243531
+valid_loss	1267501.5297333275
+train_loss	957339.8645357686
+valid_loss	1772950.3362450625
+train_loss	1845442.3426560122
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1266060.6804131023
+train_loss	957076.3231544901
+valid_loss	1665667.242584399
+train_loss	1683437.8822298325
+valid_loss	1266805.624712214
+train_loss	957180.2799657534
+valid_loss	1588735.9655124089
+train_loss	1568909.8653919331
+valid_loss	1267628.5813656598
+train_loss	956866.2103310502
+epoch : 1	./201804302330_CDAE.hdf5
+valid_loss	1543435.6786084734
+train_loss	1485624.3702435312
+valid_loss	1268176.9411239198
+train_loss	957070.9173325723
+valid_loss	1504483.3553753218
+train_loss	1424005.1180555555
+valid_loss	1267930.611789128
+train_loss	956461.8216324201
+valid_loss	1478826.920080089
+train_loss	1377520.4158105024
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1268903.1485622982
+train_loss	956905.5940829528
+valid_loss	1480567.0897005391
+train_loss	1341011.6494482497
+valid_loss	1267247.180178509
+train_loss	957458.4221841705
+valid_loss	1439180.8445686894
+train_loss	1310885.0811453576
+valid_loss	1267350.7439258085
+train_loss	956466.7230783866
+valid_loss	1266962.9136696928
+train_loss	956614.2519025875
+epoch : 1	./201804302330_CDAE.hdf5
+valid_loss	1428096.8973211362
+train_loss	1287656.0783866057
+valid_loss	1264762.4017006645
+train_loss	957304.9399733638
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1266780.7788495112
+train_loss	956742.1553462709
+valid_loss	1265738.8880915295
+train_loss	956904.2192732116
+valid_loss	1269181.108249089
+train_loss	956103.9142884322
+valid_loss	1265193.5495707763
+train_loss	956135.5255898022
+valid_loss	1269024.2588231603
+train_loss	956409.6738964992
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1269163.1746607947
+train_loss	955511.551369863
+valid_loss	1267248.2693341644
+train_loss	955704.7296423136
+valid_loss	1267606.852481096
+train_loss	956885.8255327245
+valid_loss	1266484.218367422
+train_loss	956340.6055936073
+valid_loss	1264490.0813281522
+train_loss	956340.2044330289
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1265277.8560040863
+train_loss	955882.11738965
+valid_loss	1264812.8013765984
+train_loss	955717.7774923897
+valid_loss	1266445.025533154
+train_loss	956291.0940829528
+valid_loss	1267851.801971265
+train_loss	955407.7899543379
+valid_loss	1268900.9658741872
+train_loss	955178.2053843227
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1268277.5529198672
+train_loss	956023.841324201
+valid_loss	1267322.7165506885
+train_loss	955434.3860350077
+valid_loss	1266772.1650990748
+train_loss	954658.6570585996
+valid_loss	1264948.066710403
+train_loss	955267.086282344
+valid_loss	1264365.5217135125
+train_loss	955551.3508371385
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1267845.898327705
+train_loss	954717.3544520548
+valid_loss	1265542.353452203
+train_loss	955358.8712899543
+valid_loss	1264975.318647161
+train_loss	954580.4717465753
+valid_loss	1265394.1901896386
+train_loss	954703.8692922374
+valid_loss	1265300.03547336
+train_loss	953591.4205669711
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1265671.80096947
+train_loss	953925.1299467275
+valid_loss	1265621.960954549
+train_loss	953867.2548515982
+valid_loss	1266104.595911122
+train_loss	953769.5139840182
+valid_loss	1266217.2599961264
+train_loss	953386.7793949771
+valid_loss	1266279.097959721
+train_loss	953757.2555650685
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1266361.9262204303
+train_loss	953452.5403824201
+valid_loss	1266135.0354931368
+train_loss	953830.1548706241
+valid_loss	1265909.079238636
+train_loss	953944.252901446
+valid_loss	1266624.687116058
+train_loss	954237.0305365297
+valid_loss	1266420.967368355
+train_loss	953464.8925038052
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1266337.5785634983
+train_loss	953926.5756278539
+valid_loss	1265916.8553800955
+train_loss	954009.5473744292
+valid_loss	1265770.3720812239
+train_loss	954321.553652968
+valid_loss	1266006.6650056466
+train_loss	954415.4366438356
+valid_loss	1265968.949871383
+train_loss	953862.1083999239
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1265923.8385050683
+train_loss	954458.9110540334
+valid_loss	1266022.6928254026
+train_loss	954159.9651826484
+valid_loss	1265815.570028124
+train_loss	953543.892694064
+valid_loss	1265992.6651481756
+train_loss	953410.1284246575
+valid_loss	1266736.0988742253
+train_loss	954027.8505517504
+epoch : 1	./201804301130_CDAE.hdf5
+valid_loss	1265861.9838914925
+train_loss	953423.509608067
+valid_loss	1266219.81630873
+train_loss	954235.2272640791
