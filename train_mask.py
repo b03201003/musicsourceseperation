@@ -3,12 +3,14 @@ import sys
 import numpy as np
 from tqdm import tqdm
 import keras
-from maskLSTM import LSTM
+#from maskLSTM import LSTM
+#from maskLSTMlight2 import LSTM
+from maskLSTMlight import LSTM
 import json
 from myModelCheckpoint import *
 from keras.callbacks import EarlyStopping
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = sys.argv[1]
 
 model = LSTM()
 
@@ -21,7 +23,8 @@ freq_bin = 1025
 #use del to close the np.array
 #train_accompaniment=np.load('./data/train_accompaniment.npy')
 #train_accompaniment = train_accompaniment[rand_index]
-weight_file  =  './mask001.hdf5'  
+#weight_file  =  './mask001.hdf5'  
+weight_file = './mask002.hdf5'
 if not os.path.exists(os.path.dirname(weight_file)):
 	os.makedirs(os.path.dirname(weight_file))   
   
