@@ -25,6 +25,9 @@ for traintest in os.listdir(source_data_path):
 				print "mixture.shape:",mixture.shape
 				mixture_spec = np.abs(librosa.core.spectrum.stft(mixture, n_fft=2048))#default: hop_length=512, win_length=2048
 				print "mixture_spec.shape:",mixture_spec.shape
+				for i in range(mixture_spec.shape[1]):
+					print "spec sum:",np.sum(mixture_spec.T[i])
+
 				break
 				# time_length = mixture_spec.shape[1]
 
