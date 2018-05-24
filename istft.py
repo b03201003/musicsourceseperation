@@ -88,6 +88,10 @@ c = np.multiply( y_hat,np.exp(i*phase))
 y_wav = librosa.istft(c)
 print "y_wav:",y_wav
 librosa.output.write_wav('./sodagreen_test.wav',y_wav,sr)
-
+print "len(y_wav),len(test_mix):",len(y_wav),len(test_mix)
+if len(test_mix) > len(y_wav):
+    test_mix = test_mix[:len(y_wav)]
+else : 
+    y_wav = y_wav[:len(test_mix)]
 accompany = np.subtract(test_mix,y_wav) 
-librosa.output.write_wav('.accompany_test.wav',accompany,sr)
+librosa.output.write_wav('./accompany_test.wav',accompany,sr)
