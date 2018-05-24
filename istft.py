@@ -66,14 +66,27 @@ print "x_test.shape:",x_test.shape
 # x_test = x_test.reshape(shape)
 y_hat = model.predict(x_test,batch_size)
 mask_y_hat = maskmodel.predict(x_test,batch_size)
+mask = np.zeros(mask_y_hat.shape)
+for k in range(mask_y_hat.shape[0]):
+    for j in range(mask_y_hat.shape[1]):
+        if mask_y_hat[k,j] > float(sys.argv[2]):
+            mask[k,j] = 1.0
+        else:
+            mask[k,j]= 1
+
 print "y_hat.shape,mask_y_hat.shape:",y_hat.shape,mask_y_hat.shape
-y_hat = y_hat*mask_y_hat
+print "mask_y_hat:",mask_y_hat
+print "mask:",mask
+y_hat = y_hat*mask
 
 y_hat = np.reshape(y_hat,(-1,1025)).T
 y_hat = y_hat[:,:phase.shape[1]]
+print "y_hat:",y_hat
 print "y_hat.shape,phase.shape:",y_hat.shape,phase.shape
+print "np.exp(i*phase):",np.exp(i*phase)
 c = np.multiply( y_hat,np.exp(i*phase))
 y_wav = librosa.istft(c)
+print "y_wav:",y_wav
 librosa.output.write_wav('./sodagreen_test.wav',y_wav,sr)
 
 
