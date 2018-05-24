@@ -13,7 +13,7 @@ def custom_loss(y_true,y_pred):
 	loss = K.sum(K.square(y_true-y_pred))
 	return loss 
 class LSTM():
-	def __init__(self,input_shape=(100,15,1)):
+	def __init__(self,input_shape=(100,15,1025)):
 		
 		#input_img = Input(shape=input_shape)  # adapt this if using `channels_first` image data format
 		self.model = Sequential()

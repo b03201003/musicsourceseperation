@@ -1,14 +1,17 @@
 import numpy as np
 from CDAE2 import CDAE
+from maskLSTM import LSTM
 import librosa
 import os 
 import keras
 import json
 import sys
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 frame_wedth = 15
 freq_bin = 1025
 batch_size = 100
 model = CDAE()
+maskmodel = LSTM()
 weight_file  =  './201804301130_CDAE.hdf5'  
 if os.path.isfile(weight_file):
 	print 'trained weight exists!'
@@ -16,8 +19,14 @@ if os.path.isfile(weight_file):
 	print 'complete load weights!!'
 else:
 	sys.exit()
-
-x_test= np.load('./data/test_mixture.npy')
+mask_weight_file  =  'mask001.hdf5'  
+if os.path.isfile(mask_weight_file):
+	print 'mask trained weight exists!'
+	maskmodel.load_weights(mask_weight_file)
+	print 'complete load weights!!'
+else:
+	sys.exit()
+#x_test= np.load('./data/test_mixture.npy')
 # shape = list(x_test.shape) 
 # shape.append(1)
 # x_test = x_test.reshape(shape)
@@ -56,6 +65,10 @@ print "x_test.shape:",x_test.shape
 # shape.append(1)
 # x_test = x_test.reshape(shape)
 y_hat = model.predict(x_test,batch_size)
+mask_y_hat = maskmodel.predict(x_test,batch_size)
+print "y_hat.shape,mask_y_hat.shape:",y_hat.shape,mask_y_hat.shape
+y_hat = y_hat*mask_y_hat
+
 y_hat = np.reshape(y_hat,(-1,1025)).T
 y_hat = y_hat[:,:phase.shape[1]]
 print "y_hat.shape,phase.shape:",y_hat.shape,phase.shape
