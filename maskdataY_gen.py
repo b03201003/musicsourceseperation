@@ -9,7 +9,7 @@ training_data_path = '../CDAE/maskdata/'
 frame_wedth = 15
 freq_bin = 1025
 
-mask_label = np.zeros([1])
+mask_label = np.zeros([1,frame_wedth])
 
 
 for traintest in os.listdir(source_data_path):
@@ -25,21 +25,22 @@ for traintest in os.listdir(source_data_path):
 				print "vocals.shape:",vocals.shape
 				vocals_spec = np.abs(librosa.core.spectrum.stft(vocals, n_fft=2048))#default: hop_length=512, win_length=2048
 				print "vocals_spec.shape:",vocals_spec.shape
-				for i in range(vocals_spec.shape[1]):
-					print "spec sum:",np.sum(vocals_spec.T[i])
+				#for i in range(vocals_spec.shape[1]):
+					#print "spec sum:",np.sum(vocals_spec.T[i])
+				#break
+				time_length = vocals_spec.shape[1]
+				print "vocals_spec.shape:",vocals_spec.shape
+				vocals_mask = np.zeros([time_length])
+				for i in range(time_length):
+					if np.sum(vocals_spec.T[i])>100.0:
+						vocals_mask[i] = 1.0
 
-				break
-				# time_length = mixture_spec.shape[1]
+				vocals_mask = np.concatenate((vocals_mask[:frame_wedth*(time_length/frame_wedth)],vocals_mask[-frame_wedth:]),axis=0)
 
-				# #mixture_spec = mixture_spec.T[:frame_wedth*(time_length/frame_wedth)]
-				# #last = mixture_spec.T[-frame_wedth:]
+				vocals_mask = np.array(np.split(vocals_mask,(time_length/frame_wedth)+1))	
+				print "vocals_mask.shape:",vocals_mask.shape
+				mask_label = np.concatenate((mask_label,vocals_mask),axis=0)
+				print "mask_label.shape:",mask_label.shape
 
-				# mixture_spec = np.concatenate((mixture_spec.T[:frame_wedth*(time_length/frame_wedth)],mixture_spec.T[-frame_wedth:]),axis=0)
-				# print "mixture_spec.shape:",mixture_spec.shape
-				# mixture_spec = np.array(np.split(mixture_spec,(time_length/frame_wedth)+1))	
-				# print "mixture_spec.shape:",mixture_spec.shape
-				# mask_data = np.concatenate((mask_data,mixture_spec),axis=0)
-				# print "mask_data.shape:",mask_data.shape
-
-    #     np.save(training_data_path+traintest+'_maskX.npy',mask_data[1:])
-    #     mask_data = np.zeros([1,frame_wedth,freq_bin])
+        np.save(training_data_path+traintest+'_maskY.npy',mask_label[1:])
+        mask_label = np.zeros([1,frame_wedth])
