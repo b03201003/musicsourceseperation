@@ -32,8 +32,8 @@ if os.path.isfile(weight_file):
 checkpointer = myModelCheckpoint(filepath=weight_file, monitor='val_loss', verbose=1, save_best_only=True, mode='min')
 early_stopping = EarlyStopping(monitor='val_loss', patience=10) 
 
-x_train = np.load('./data/train_mixture.npy')
-x_valid = np.load('./data/valid_mixture.npy')
+x_train = np.load('../CDAE/data/train_mixture.npy')
+x_valid = np.load('../CDAE/data/valid_mixture.npy')
 # x_train = x_train[:(len(x_train)/batch_size)*batch_size]
 # x_valid = x_valid[:(len(x_valid)/batch_size)*batch_size]
 
@@ -48,8 +48,8 @@ x_valid = np.concatenate((x_valid,np.zeros([valid_pad_len,frame_wedth,freq_bin])
 # shape.append(1)
 # x_valid = x_valid.reshape(shape)
 
-y_train = np.load('./data/train_vocals.npy')
-y_valid = np.load('./data/valid_vocals.npy')
+y_train = np.load('../CDAE/data/train_vocals.npy')
+y_valid = np.load('../CDAE/data/valid_vocals.npy')
 
 y_train = np.concatenate((y_train,np.zeros([train_pad_len,frame_wedth,freq_bin])),axis=0)
 y_valid = np.concatenate((y_valid,np.zeros([valid_pad_len,frame_wedth,freq_bin])),axis=0)
