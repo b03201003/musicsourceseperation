@@ -17,10 +17,10 @@ class LSTM():
 		
 		#input_img = Input(shape=input_shape)  # adapt this if using `channels_first` image data format
 		self.model = Sequential()
-		self.model.add(TimeDistributed(Dense(100,activation = 'relu'), batch_input_shape=input_shape))
-		self.model.add(CuDNNLSTM(50,return_sequences=True,stateful=True))
+		self.model.add(TimeDistributed(Dense(20,activation = 'relu'), batch_input_shape=input_shape))
+		self.model.add(CuDNNLSTM(10,return_sequences=True,stateful=True))
 		self.model.add(Activation('relu'))
-		self.model.add(CuDNNLSTM(100,return_sequences=True,stateful=True))
+		self.model.add(CuDNNLSTM(10,return_sequences=True,stateful=True))
 		self.model.add(Activation('relu'))
 		self.model.add(TimeDistributed(Dense(1,activation = 'sigmoid')))
 		nadam=Nadam(lr=0.002,beta_1=0.9,beta_2=0.999,epsilon=1e-08,schedule_decay=0.004)
