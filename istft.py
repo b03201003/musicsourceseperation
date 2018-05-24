@@ -89,4 +89,5 @@ y_wav = librosa.istft(c)
 print "y_wav:",y_wav
 librosa.output.write_wav('./sodagreen_test.wav',y_wav,sr)
 
-
+accompany = np.subtract(test_mix,y_wav) 
+librosa.output.write_wav('.accompany_test.wav',accompany,sr)
