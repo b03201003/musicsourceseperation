@@ -6,7 +6,7 @@ import os
 import keras
 import json
 import sys
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = sys.argv[1]
 frame_wedth = 15
 freq_bin = 1025
 batch_size = 100
