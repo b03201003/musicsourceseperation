@@ -81,8 +81,8 @@ class myModelCheckpoint(Callback):
             self.train_best = loss
         
         myPath = (os.getcwd()) #'./'
-        fAll = open(myPath+'/myHistoryRecordAll.txt', 'a+')
-
+        fAll = open(myPath+'/NewHistoryAll.txt', 'a+')
+        fAll.seek(0,0)
         Record_text = fAll.read().split("\n")[:-1]
         #print('last part of record:',Record_text)
         valid_loss_record =[]
@@ -94,7 +94,7 @@ class myModelCheckpoint(Callback):
         print('valid loss record:',valid_loss_record)
         print('current loss average:',float(np.average(valid_loss_record)))
         lr = K.get_value(self.model.optimizer.lr)
-        if  valid_loss_record[0] > float(np.average(valid_loss_record)) and self.epochs>self.epochs_reduce :
+        if  len(valid_loss_record)>=1 and valid_loss_record[0] > float(np.average(valid_loss_record)) and self.epochs>self.epochs_reduce :
             #valid_loss_record[0] is the last valid_loss in Record_text
             self.epochs_reduce = self.epochs+100
             print('reduce learning rate')
@@ -129,7 +129,7 @@ class myModelCheckpoint(Callback):
                     self.model.save_weights(filepath, overwrite=True)
 
                     # update only best, choh
-                    fo = open(myPath+'/myHistory.txt', 'r+')
+                    fo = open(myPath+'/NewHistory.txt', 'r+')
                     #fo = open('/home/choh/W_Python/myISMIR2016/Ver2.2/myHistory.txt','r+')
                     # 0.671092951992 
                     # 0.676543210992

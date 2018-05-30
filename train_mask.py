@@ -1,14 +1,20 @@
 import os 
 import sys
 import numpy as np
-from tqdm import tqdm
+#from tqdm import tqdm
 import keras
 #from maskLSTM import LSTM
 #from maskLSTMlight2 import LSTM
-from maskLSTMlight import LSTM
+#from maskLSTMlight import LSTM
+from maskBiLSTM import LSTM
+#from maskBiLSTM2 import LSTM
 import json
 from myModelCheckpoint import *
 from keras.callbacks import EarlyStopping
+
+#ISMIR 2018 2017
+#BiLSTM on spec model , attention, BN layer
+#data preprocessing 
 
 os.environ["CUDA_VISIBLE_DEVICES"] = sys.argv[1]
 
@@ -24,14 +30,14 @@ freq_bin = 1025
 #train_accompaniment=np.load('./data/train_accompaniment.npy')
 #train_accompaniment = train_accompaniment[rand_index]
 #weight_file  =  './mask001.hdf5'  
-weight_file = './mask002.hdf5'
-if not os.path.exists(os.path.dirname(weight_file)):
-	os.makedirs(os.path.dirname(weight_file))   
+weight_file = sys.argv[2]
+#if not os.path.exists(os.path.dirname(weight_file)):
+#	os.makedirs(os.path.dirname(weight_file))   
   
 if os.path.isfile(weight_file):
-	print 'trained weight exists!'
+	print('trained weight exists!')
 	model.load_weights(weight_file)
-	print 'complete load weights!!'
+	print('complete load weights!!')
 checkpointer = myModelCheckpoint(filepath=weight_file, monitor='val_loss', verbose=1, save_best_only=True, mode='min')
 early_stopping = EarlyStopping(monitor='val_loss', patience=10) 
 
@@ -71,8 +77,8 @@ y_valid = np.concatenate((y_valid,np.zeros([valid_pad_len,frame_wedth,1])),axis=
 # shape = list(y_valid.shape) 
 # shape.append(1)
 # y_valid = y_valid.reshape(shape)
-print x_train.shape,y_train.shape
-print x_valid.shape,y_valid.shape
+print(x_train.shape,y_train.shape)
+print(x_valid.shape,y_valid.shape)
 
 
 # x_test= np.load('./data/test_vocals.npy')
@@ -85,7 +91,7 @@ print x_valid.shape,y_valid.shape
 
 
 for i  in range(100):
-	print '>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> training : ' , str(i+1) ,'>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>'
+	print('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> training : ' , str(i+1) ,'>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>')
 
 
 	#print "first part: (voice,voice)"

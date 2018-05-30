@@ -1,7 +1,7 @@
 import os 
 import sys
 import numpy as np
-from tqdm import tqdm
+#from tqdm import tqdm
 import keras
 from keras.models import Sequential,Model
 from keras.layers import Dense, Dropout, Activation,BatchNormalization,Flatten,Reshape,Input,CuDNNLSTM,TimeDistributed
@@ -38,7 +38,7 @@ class CDAE():
 	def train(self,x_train,y_train,x_valid,y_valid,checkpointer,early_stopping,epochs=20,batch_size=64):
 		self.model.fit(x_train,y_train,validation_data=(x_valid,y_valid),epochs=epochs,batch_size=batch_size,callbacks=[checkpointer,early_stopping])
 	def evaluate(self,x_test,y_test,batch_size=100):
-		print "\nevaluate:",self.model.evaluate(x_test,y_test,batch_size=batch_size)
+		print ("\nevaluate:",self.model.evaluate(x_test,y_test,batch_size=batch_size))
 
 	def predict(self,x_test,batch_size):
 		y_predict = self.model.predict(x_test,batch_size=batch_size)
