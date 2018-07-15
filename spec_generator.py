@@ -2,7 +2,7 @@ from __future__ import print_function
 import os
 import numpy as np
 import librosa
-def preprocess(paths,stage):
+def preprocess(paths,stage): #mixture->voice
 	if os.path.isfile(stage+'_Unet_input.npy') and os.path.isfile(stage+'_Unet_output.npy'):
 		input_spec = np.load(stage+'_Unet_input.npy')
 		output_spec = np.load(stage+'_Unet_output.npy') 
@@ -72,7 +72,7 @@ def preprocess2(paths,stage): #accompany->zeros
 		output_spec = np.zeros(output_spec.shape)
 		np.save(stage+'_Unet_input2.npy',input_spec)
 		np.save(stage+'_Unet_output2.npy',output_spec)
-	print("input_spec.shape,output_spec.shape:",input_spec.shape,output_spec.shape)
+	print("input_spec2.shape,output_spec2.shape:",input_spec.shape,output_spec.shape)
 	return input_spec,output_spec
 
 def preprocess3(paths,stage):#voice->voice
@@ -109,7 +109,7 @@ def preprocess3(paths,stage):#voice->voice
 		output_spec = input_spec
 		np.save(stage+'_Unet_input3.npy',input_spec)
 		np.save(stage+'_Unet_output3.npy',output_spec)
-	print("input_spec.shape,output_spec.shape:",input_spec.shape,output_spec.shape)
+	print("input_spec3.shape,output_spec3.shape:",input_spec.shape,output_spec.shape)
 	return input_spec,output_spec
 
 
